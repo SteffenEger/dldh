@@ -1,3 +1,12 @@
+## Deep Learning & Digital Humanities
+
+### Content
+### Meetings
+Biweekly, every Thursday from 18:15 to 19:45.
+### Language
+The seminar will be held in English.
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/SteffenEger/dldh/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -30,7 +39,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SteffenEger/dldh/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in yoxur [repository settings](https://github.com/SteffenEger/dldh/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
