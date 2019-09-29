@@ -1,6 +1,8 @@
 # Deep Learning & Digital Humanities
 
 ### Content
+### Organization
+The seminar will be held by [Steffen Eger](https://www.informatik.tu-darmstadt.de/aiphes/aiphes/irg_position/index.en.jsp) and [Thomas Haider](https://www.aesthetics.mpg.de/institut/mitarbeiterinnen/thomas-haider.html)
 ### Meetings
 Biweekly, every Thursday from 18:15 to 19:45.
 ### Language
