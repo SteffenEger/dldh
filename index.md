@@ -6,10 +6,16 @@ Biweekly, every Thursday from 18:15 to 19:45.
 ### Language
 The seminar will be held in English.
 ### Course Plan
-1. Session 1 (21.10.2019)
-  - What is Digital Humanities? (Thomas Haider)
-2. Session 2 (28.10.2019)
-  - What is Deep Learning? (Steffen Eger)
+1. Session 1 (24.10.2019)
+     - What is Digital Humanities? (Thomas Haider)
+2. Session 2 (31.10.2019)
+     - What is Deep Learning? (Steffen Eger)
+3. Session 3 (14.11.2019)
+     - Data annotation and how to compute agreement scores
+     - **Literature**
+        - Capturing Reliable Fine-Grained Sentiment Associations by Crowdsourcing and Best-Worst Scaling. Svetlana Kiritchenko and Saif M. Mohammad. In Proceedings of the 15th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies. June 2016. San Diego, CA.
+4. Session 4 (28.11.2019)
+      - Poetry & Fine arts
 
 
 ## Welcome to GitHub Pages
