@@ -13,20 +13,20 @@ The seminar will be held in English.
 2. Session 2 (31.10.2019)
      - What is Deep Learning? (Steffen Eger)
 3. Session 3 (14.11.2019)
+     - Semantic Change & Semantic Drift
+4. Session 4 (28.11.2019)     
      - Data annotation and how to compute agreement scores
      - **Literature**
         - Capturing Reliable Fine-Grained Sentiment Associations by Crowdsourcing and Best-Worst Scaling. Svetlana Kiritchenko and Saif M. Mohammad. In Proceedings of the 15th Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies. June 2016. San Diego, CA.
         - Best-Worst Scaling More Reliable than Rating Scales: A Case Study on Sentiment Intensity Annotation. Kiritchenko, S. and Mohammad, S. In Proceedings of the Annual Meeting of the Association for Computational Linguistics (ACL-2017), Vancouver, Canada, 2017.
-4. Session 4 (28.11.2019)
-      - Poetry & Fine arts
 5. Session 5 (12.12.2019)
       - Metaphors & Emotions
 6. Session 6 (19.12.2019)
-      - Semantic Change & Semantic Drift
-7. Session 7 (16.01.2019)
+      - Poetry & Fine arts
+7. Session 7 (16.01.2020)
       - Historical Spelling Normalization, OCR-Postcorrection via Sequence Tagging & Transfer Learning
-8. Session 8 (30.01.2019)
-      - Author identification
+8. Session 8 (30.01.2020)
+      - Author identification & Stylometry
 
 
 ## Welcome to GitHub Pages
