@@ -1,10 +1,15 @@
-## Deep Learning & Digital Humanities
+# Deep Learning & Digital Humanities
 
 ### Content
 ### Meetings
 Biweekly, every Thursday from 18:15 to 19:45.
 ### Language
 The seminar will be held in English.
+### Course Plan
+1. Session 1 (21.10.2019)
+  - What is Digital Humanities? (Thomas Haider)
+2. Session 2 (28.10.2019)
+  - What is Deep Learning? (Steffen Eger)
 
 
 ## Welcome to GitHub Pages
