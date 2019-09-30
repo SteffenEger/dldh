@@ -51,7 +51,11 @@ The seminar will be held in English.
          - Bostan and Klinger. A Survey and Experiments on Annotated Corpora for Emotion Classification in Text. In Coling 2018.
          - Do Dinh, Eger, and Gurevych. Killing Four Birds with Two Stones: Multi-Task Learning for Non-Literal Language Detection. In COLING 2018
          - DoDinh, Wieland, and Gurevych. Weeding out Conventionalized Metaphors: A Corpus of Novel Metaphor Annotations. In EMNLP 2018.
-         - 
+         - Rei et al. Grasping the Finer Point: A Supervised Similarity Network for Metaphor Detection. In EMNLP 2017.
+         - Mohammad et al. Metaphor as a Medium for Emotion: An Empirical Study. In *SEM 2017.
+         - Tsvetkov et al. Metaphor Detection with Cross-Lingual Model Transfer. In ACL 2014. 
+         - Steen et al. A method for linguistic metaphor identification: From MIP to MIPVU, volume 14. John Benjamins Publishing, 2010.
+         - Leong et al. A Report on the 2018 VUA Metaphor Detection Shared Task. In Workshop on Figurative Language Processing
 6. Session 6 (19.12.2019)
       - Poetry & Fine arts
       - **Literature**
