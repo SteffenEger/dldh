@@ -16,7 +16,7 @@ The seminar will be held in English.
      - Semantic Change & Semantic Drift
      - **Literature**
         - Hamilton et al. 2016. Diachronic Word Embeddings Reveal Statistical Laws of Semantic Change. In: ACL 2016.
-        - Eger and Mehler 2016. On the Linearity of Semantic Change: . In ACL 2016.
+        - Eger and Mehler 2016. On the Linearity of Semantic Change: Investigating Meaning Variation via Dynamic Graph Models. In ACL 2016.
 4. Session 4 (28.11.2019)     
      - Data annotation and how to compute agreement scores
      - **Literature**
