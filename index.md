@@ -1,4 +1,4 @@
-# Deep Learning & Digital Humanities
+# Deep Learning & Digital Humanities (20-00-1080-se Deep Learning und Digital Humanities)
 
 ### Content
 
