@@ -44,6 +44,14 @@ The seminar will be held in English.
         - 
 5. Session 5 (12.12.2019)
       - Metaphors & Emotions
+      - **Literature**
+         - Buechel and Hahn. Readers vs. writers vs. texts: Coping with different perspectives of text understanding in emotion annotation. In LAW 2017.
+         - Buechel and Hahn. EmoBank: Studying the Impact of Annotation Perspective and Representation Format on Dimensional Emotion Analysis. In EACL 2017. 
+         - Buechel and Hahn. Word Emotion Induction for Multiple Languages as a Deep Multi-Task Learning Problem. In NAACL 2018.
+         - Bostan and Klinger. A Survey and Experiments on Annotated Corpora for Emotion Classification in Text. In Coling 2018.
+         - Do Dinh, Eger, and Gurevych. Killing Four Birds with Two Stones: Multi-Task Learning for Non-Literal Language Detection. In COLING 2018
+         - DoDinh, Wieland, and Gurevych. Weeding out Conventionalized Metaphors: A Corpus of Novel Metaphor Annotations. In EMNLP 2018.
+         - 
 6. Session 6 (19.12.2019)
       - Poetry & Fine arts
       - **Literature**
