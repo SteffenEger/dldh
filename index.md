@@ -14,6 +14,9 @@ The seminar will be held in English.
      - What is Deep Learning? (Steffen Eger)
 3. Session 3 (14.11.2019)
      - Semantic Change & Semantic Drift
+     - **Literature**
+        - Hamilton et al. 2016. Diachronic Word Embeddings Reveal Statistical Laws of Semantic Change. In: ACL 2016.
+        - Eger and Mehler 2016. On the Linearity of Semantic Change: . In ACL 2016.
 4. Session 4 (28.11.2019)     
      - Data annotation and how to compute agreement scores
      - **Literature**
@@ -21,6 +24,7 @@ The seminar will be held in English.
         - Best-Worst Scaling More Reliable than Rating Scales: A Case Study on Sentiment Intensity Annotation. Kiritchenko, S. and Mohammad, S. In ACL 2017.
         - Simpson, Edwin, Do Dinh, Erik-Lân, Miller, Tristan, Gurevych, Iryna. Predicting Humorousness and Metaphor Novelty with Gaussian Process Preference Learning. In: ACL 2019.
         - Simpson, Edwin, Gurevych, Iryna. Finding Convincing Arguments Using Scalable Bayesian Preference Learning. In: TACL 2018.
+        - Simpson, Edwin and Gurevych, Iryna. A Bayesian Approach for Sequence Tagging with Crowds. In: EMNLP 2019.
 5. Session 5 (12.12.2019)
       - Metaphors & Emotions
 6. Session 6 (19.12.2019)
