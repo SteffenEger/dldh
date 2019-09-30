@@ -17,8 +17,10 @@ The seminar will be held in English.
 4. Session 4 (28.11.2019)     
      - Data annotation and how to compute agreement scores
      - **Literature**
-        - Capturing Reliable Fine-Grained Sentiment Associations by Crowdsourcing and Best-Worst Scaling. Svetlana Kiritchenko and Saif M. Mohammad. In NAACL-2016.
-        - Best-Worst Scaling More Reliable than Rating Scales: A Case Study on Sentiment Intensity Annotation. Kiritchenko, S. and Mohammad, S. In ACL-2017.
+        - Capturing Reliable Fine-Grained Sentiment Associations by Crowdsourcing and Best-Worst Scaling. Svetlana Kiritchenko and Saif M. Mohammad. In NAACL 2016.
+        - Best-Worst Scaling More Reliable than Rating Scales: A Case Study on Sentiment Intensity Annotation. Kiritchenko, S. and Mohammad, S. In ACL 2017.
+        - Simpson, Edwin, Do Dinh, Erik-Lân, Miller, Tristan, Gurevych, Iryna. Predicting Humorousness and Metaphor Novelty with Gaussian Process Preference Learning. In: ACL 2019.
+        - Simpson, Edwin, Gurevych, Iryna. Finding Convincing Arguments Using Scalable Bayesian Preference Learning. In: TACL 2018.
 5. Session 5 (12.12.2019)
       - Metaphors & Emotions
 6. Session 6 (19.12.2019)
