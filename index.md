@@ -17,6 +17,7 @@ The seminar will be held in English.
      - **Literature**
         - Hamilton et al. 2016. Diachronic Word Embeddings Reveal Statistical Laws of Semantic Change. In: ACL 2016.
         - Eger and Mehler 2016. On the Linearity of Semantic Change: Investigating Meaning Variation via Dynamic Graph Models. In ACL 2016.
+        - Haim Dubossarsky, Daphna Weinshall, and Eitan Grossman. 2017. Outta control: Laws of semantic change and inherent biases in word representation model
 4. Session 4 (28.11.2019)     
      - Data annotation and how to compute agreement scores
      - **Literature**
