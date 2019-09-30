@@ -46,6 +46,12 @@ The seminar will be held in English.
       - Metaphors & Emotions
 6. Session 6 (19.12.2019)
       - Poetry & Fine arts
+      - **Literature**
+         - Zhang and Lapata. Chinese Poetry Generation with Recurrent Neural Networks. In EMNLP 2014.
+         - Ghazvininejad et al. Hafez: an interactive Poetry Generation System. In ACL Demo papers 2017.
+         - Hopkins and Kiela. Automatically Generating Rhythmic Verse with Neural Networks. In ACL 2017.
+         - Lau et al. DeepSpeare: A joint neural model of poetic language, meter and rhyme. In ACL 2018.
+         - Haider and Kuhn. Supervised Rhyme Detection with Siamese Recurrent Networks. In LaTeCH-CLfL 2018.
 7. Session 7 (16.01.2020)
       - Historical Spelling Normalization, OCR-Postcorrection via Sequence Tagging & Transfer Learning
 8. Session 8 (30.01.2020)
