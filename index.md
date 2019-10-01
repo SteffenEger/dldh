@@ -75,5 +75,9 @@ The seminar will be held in English.
          - Amrhein, Clematide. Supervised OCR Error Detection and Correction Using Statistical and Neural Machine Translation Methods. In JLCL 2018. 
 8. Session 8 (30.01.2020)
       - Author identification & Stylometry
+      - **Literature**
+          - Mike Kestemont et al. 2019. Overview of the cross-domain authorship attribution task at {PAN} 2019. In Working Notes CLEF.
+          - Evert et al. Towards a better understanding of Burrows’s Delta in literary authorship attribution. In Workshop on Computational Linguistics for Literature, 2015.
+
 
 
