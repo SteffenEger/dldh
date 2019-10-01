@@ -19,7 +19,8 @@ The seminar will be held in English.
 3. Session 3 (14.11.2019)
      - Semantic Change & Semantic Drift
      - **Literature**
-        - Hamilton et al. 2016. Diachronic Word Embeddings Reveal Statistical Laws of Semantic Change. In ACL 2016.
+        
+        - <span style="font-size:80%">Hamilton et al. 2016. Diachronic Word Embeddings Reveal Statistical Laws of Semantic Change. In ACL 2016.</span>
         - Eger and Mehler 2016. On the Linearity of Semantic Change: Investigating Meaning Variation via Dynamic Graph Models. In ACL 2016.
         - Dubossarsky, Weinshall, and Grossman. 2017. Outta control: Laws of semantic change and inherent biases in word representation model. In EMNLP 2017.
         - Hamilton et al. Cultural Shift or Linguistic Drift? Comparing Two Computational Measures of Semantic Change. In EMNLP 2016. 
