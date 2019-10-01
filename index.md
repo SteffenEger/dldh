@@ -66,6 +66,13 @@ The seminar will be held in English.
          - Haider and Kuhn. Supervised Rhyme Detection with Siamese Recurrent Networks. In LaTeCH-CLfL 2018.
 7. Session 7 (16.01.2020)
       - Historical Spelling Normalization, OCR-Postcorrection via Sequence Tagging & Transfer Learning
+      - **Literature**
+         - Bollmann. A Large-Scale Comparison of Historical Text Normalization Systems. In NAACL 2019.
+         - Flachs, Bollmann, Sogaard. Historical Text Normalization with Delayed Rewards. In ACL 2019.
+         - Bollmann, Bingel, Sogaard. Learning attention for historical text normalization by learning to pronounce. In ACL 2017. 
+         - Bollmann, Dipper, Petran. Evaluating Inter-Annotator Agreement on Historical Spelling Normalization. In LAW 10, 2016. 
+         - Schnober, Eger, Do Dinh, Gurevych. Still not there? Comparing traditional sequence-to-sequence models to encoder-decoder neural networks on monotone string translation tasks. In COLING 2016. 
+         - Amrhein, Clematide. Supervised OCR Error Detection and Correction Using Statistical and Neural Machine Translation Methods. In JLCL 2018. 
 8. Session 8 (30.01.2020)
       - Author identification & Stylometry
 
