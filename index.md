@@ -8,7 +8,7 @@ Der Fokus des Seminars wird auf Humanities Anwendungen wie Gedicht-Generierung u
 ### Organization
 The seminar will be held by [Steffen Eger](https://www.informatik.tu-darmstadt.de/aiphes/aiphes/irg_position/index.en.jsp) and [Thomas Haider](https://www.aesthetics.mpg.de/institut/mitarbeiterinnen/thomas-haider.html)
 ### Meetings
-Biweekly, Thursdays from 18:15 to 19:45.
+Biweekly, Thursdays from 18:15 to 19:45, in Darmstadt Stadtmitte S1 08/18.
 ### Language
 The seminar will be held in English.
 ### Course Plan
