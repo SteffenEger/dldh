@@ -42,45 +42,45 @@ The seminar will be held in English.
    - Cysouw. Disentangling geography from genealogy. In Peter Auer, Martin Hilpert, Anja Stukenbrock, and Benedikt Szmrecsanyi, editors, Space in Language and Linguistics: Geographical, Interactional, and Cognitive Perspectives. 2013.   
 
 - **Data annotation and how to compute agreement scores**
-        - Kiritchenko and Mohammad. Capturing Reliable Fine-Grained Sentiment Associations by Crowdsourcing and Best-Worst Scaling. In NAACL 2016.
-        - Kiritchenko and Mohammad. Best-Worst Scaling More Reliable than Rating Scales: A Case Study on Sentiment Intensity Annotation. In ACL 2017.
-        - Simpson, Do Dinh, Miller, and Gurevych. Predicting Humorousness and Metaphor Novelty with Gaussian Process Preference Learning. In ACL 2019.
-        - Simpson and Gurevych. Finding Convincing Arguments Using Scalable Bayesian Preerence Learning. In TACL 2018.
-        - Simpson and Gurevych. A Bayesian Approach for Sequence Tagging with Crowds. In EMNLP 2019.
-        - 
-        - 
+   - Kiritchenko and Mohammad. Capturing Reliable Fine-Grained Sentiment Associations by Crowdsourcing and Best-Worst Scaling. In NAACL 2016.
+   - Kiritchenko and Mohammad. Best-Worst Scaling More Reliable than Rating Scales: A Case Study on Sentiment Intensity Annotation. In ACL 2017.
+   - Simpson, Do Dinh, Miller, and Gurevych. Predicting Humorousness and Metaphor Novelty with Gaussian Process Preference Learning. In ACL 2019.
+   - Simpson and Gurevych. Finding Convincing Arguments Using Scalable Bayesian Preerence Learning. In TACL 2018.
+   - Simpson and Gurevych. A Bayesian Approach for Sequence Tagging with Crowds. In EMNLP 2019.
+   - 
+   - 
         
 - **Metaphors & Emotions**
-         - Buechel and Hahn. Readers vs. writers vs. texts: Coping with different perspectives of text understanding in emotion annotation. In LAW 2017.
-         - Buechel and Hahn. EmoBank: Studying the Impact of Annotation Perspective and Representation Format on Dimensional Emotion Analysis. In EACL 2017. 
-         - Buechel and Hahn. Word Emotion Induction for Multiple Languages as a Deep Multi-Task Learning Problem. In NAACL 2018.
-         - Bostan and Klinger. A Survey and Experiments on Annotated Corpora for Emotion Classification in Text. In Coling 2018.
-         - Do Dinh, Eger, and Gurevych. Killing Four Birds with Two Stones: Multi-Task Learning for Non-Literal Language Detection. In COLING 2018
-         - DoDinh, Wieland, and Gurevych. Weeding out Conventionalized Metaphors: A Corpus of Novel Metaphor Annotations. In EMNLP 2018.
-         - Rei et al. Grasping the Finer Point: A Supervised Similarity Network for Metaphor Detection. In EMNLP 2017.
-         - Mohammad et al. Metaphor as a Medium for Emotion: An Empirical Study. In *SEM 2017.
-         - Tsvetkov et al. Metaphor Detection with Cross-Lingual Model Transfer. In ACL 2014. 
-         - Steen et al. A method for linguistic metaphor identification: From MIP to MIPVU, volume 14. John Benjamins Publishing, 2010.
-         - Leong et al. A Report on the 2018 VUA Metaphor Detection Shared Task. In Workshop on Figurative Language Processing
+   - Buechel and Hahn. Readers vs. writers vs. texts: Coping with different perspectives of text understanding in emotion annotation. In LAW 2017.
+   - Buechel and Hahn. EmoBank: Studying the Impact of Annotation Perspective and Representation Format on Dimensional Emotion Analysis. In EACL 2017. 
+   - Buechel and Hahn. Word Emotion Induction for Multiple Languages as a Deep Multi-Task Learning Problem. In NAACL 2018.
+   - Bostan and Klinger. A Survey and Experiments on Annotated Corpora for Emotion Classification in Text. In Coling 2018.
+   - Do Dinh, Eger, and Gurevych. Killing Four Birds with Two Stones: Multi-Task Learning for Non-Literal Language Detection. In COLING 2018
+   - DoDinh, Wieland, and Gurevych. Weeding out Conventionalized Metaphors: A Corpus of Novel Metaphor Annotations. In EMNLP 2018.
+   - Rei et al. Grasping the Finer Point: A Supervised Similarity Network for Metaphor Detection. In EMNLP 2017.
+   - Mohammad et al. Metaphor as a Medium for Emotion: An Empirical Study. In *SEM 2017.
+   - Tsvetkov et al. Metaphor Detection with Cross-Lingual Model Transfer. In ACL 2014. 
+   - Steen et al. A method for linguistic metaphor identification: From MIP to MIPVU, volume 14. John Benjamins Publishing, 2010.
+   - Leong et al. A Report on the 2018 VUA Metaphor Detection Shared Task. In Workshop on Figurative Language Processing
       
 - **Poetry & Fine arts**
-         - Zhang and Lapata. Chinese Poetry Generation with Recurrent Neural Networks. In EMNLP 2014.
-         - Ghazvininejad et al. Hafez: an interactive Poetry Generation System. In ACL Demo papers 2017.
-         - Hopkins and Kiela. Automatically Generating Rhythmic Verse with Neural Networks. In ACL 2017.
-         - Lau et al. DeepSpeare: A joint neural model of poetic language, meter and rhyme. In ACL 2018.
-         - Haider and Kuhn. Supervised Rhyme Detection with Siamese Recurrent Networks. In LaTeCH-CLfL 2018.
+   - Zhang and Lapata. Chinese Poetry Generation with Recurrent Neural Networks. In EMNLP 2014.
+   - Ghazvininejad et al. Hafez: an interactive Poetry Generation System. In ACL Demo papers 2017.
+   - Hopkins and Kiela. Automatically Generating Rhythmic Verse with Neural Networks. In ACL 2017.
+   - Lau et al. DeepSpeare: A joint neural model of poetic language, meter and rhyme. In ACL 2018.
+   - Haider and Kuhn. Supervised Rhyme Detection with Siamese Recurrent Networks. In LaTeCH-CLfL 2018.
 
 - **Historical Spelling Normalization, OCR-Postcorrection via Sequence Tagging & Transfer Learning**
-         - Bollmann. A Large-Scale Comparison of Historical Text Normalization Systems. In NAACL 2019.
-         - Flachs, Bollmann, Sogaard. Historical Text Normalization with Delayed Rewards. In ACL 2019.
-         - Bollmann, Bingel, Sogaard. Learning attention for historical text normalization by learning to pronounce. In ACL 2017. 
-         - Bollmann, Dipper, Petran. Evaluating Inter-Annotator Agreement on Historical Spelling Normalization. In LAW 10, 2016. 
-         - Schnober, Eger, Do Dinh, Gurevych. Still not there? Comparing traditional sequence-to-sequence models to encoder-decoder neural networks on monotone string translation tasks. In COLING 2016. 
-         - Amrhein, Clematide. Supervised OCR Error Detection and Correction Using Statistical and Neural Machine Translation Methods. In JLCL 2018. 
+   - Bollmann. A Large-Scale Comparison of Historical Text Normalization Systems. In NAACL 2019.
+   - Flachs, Bollmann, Sogaard. Historical Text Normalization with Delayed Rewards. In ACL 2019.
+   - Bollmann, Bingel, Sogaard. Learning attention for historical text normalization by learning to pronounce. In ACL 2017. 
+   - Bollmann, Dipper, Petran. Evaluating Inter-Annotator Agreement on Historical Spelling Normalization. In LAW 10, 2016. 
+   - Schnober, Eger, Do Dinh, Gurevych. Still not there? Comparing traditional sequence-to-sequence models to encoder-decoder neural networks on monotone string translation tasks. In COLING 2016. 
+   - Amrhein, Clematide. Supervised OCR Error Detection and Correction Using Statistical and Neural Machine Translation Methods. In JLCL 2018. 
       
 - **Author identification & Stylometry**
-          - Mike Kestemont et al. 2019. Overview of the cross-domain authorship attribution task at {PAN} 2019. In Working Notes CLEF.
-          - Evert et al. Towards a better understanding of Burrows’s Delta in literary authorship attribution. In Workshop on Computational Linguistics for Literature, 2015.
+   - Mike Kestemont et al. 2019. Overview of the cross-domain authorship attribution task at {PAN} 2019. In Working Notes CLEF.
+   - Evert et al. Towards a better understanding of Burrows’s Delta in literary authorship attribution. In Workshop on Computational Linguistics for Literature, 2015.
 
 
 
