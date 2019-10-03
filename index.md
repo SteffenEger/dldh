@@ -12,6 +12,10 @@ Biweekly, Thursdays from 18:15 to 19:45, in Darmstadt Stadtmitte S1 08/18.
 ### Language
 The seminar will be held in English.
 ### Course Plan
+|Session|Date|Topics|Presenter|
+|1|24.10.|What is Digital Humanities?|Thomas Haider|
+|2|31.10.|What is Deep Learning?|Steffen Eger|
+
 1. Session 1 (24.10.2019)
      - What is Digital Humanities? (Thomas Haider)
 2. Session 2 (31.10.2019)
