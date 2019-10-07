@@ -39,7 +39,8 @@ The seminar will be held in English.
    - Asgari and Mofrad. Comparing Fifty Natural Languages and Twelve Genetic Languages Using Word Embedding Language Divergence (WELD) as a Quantitative Measure of Language Distance. In: Workshop on Multilingual and Cross-lingual Methods in NLP, 2016.
    - Bamman et al. Distributed representations of geographically situated language. In ACL 2014.
    - Rama and List. An automated framework for fast cognate detection and Bayesian phylogenetic inference in computational historical linguistics. In ACL 2019.
-   - Cysouw. Disentangling geography from genealogy. In Peter Auer, Martin Hilpert, Anja Stukenbrock, and Benedikt Szmrecsanyi, editors, Space in Language and Linguistics: Geographical, Interactional, and Cognitive Perspectives. 2013.   
+   - Cysouw. Disentangling geography from genealogy. In Peter Auer, Martin Hilpert, Anja Stukenbrock, and Benedikt Szmrecsanyi, editors, Space in Language and Linguistics: Geographical, Interactional, and Cognitive Perspectives. 2013.  
+   - Hu et al. Diachronic Sense Modeling with Deep Contextualized Word Embeddings: An Ecological View. In ACL 2019.
 
 - **Data annotation and how to compute agreement scores**
    - Kiritchenko and Mohammad. Capturing Reliable Fine-Grained Sentiment Associations by Crowdsourcing and Best-Worst Scaling. In NAACL 2016.
