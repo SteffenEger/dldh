@@ -125,7 +125,7 @@ The seminar will be held in English.
 
 
      
-- **Stylometry**
+- **Stylometry & Authorship**
    - Field, A. and Tsvetkov, Y., 2019. Entity-centric contextual affective analysis. ACL 2019
    - Jhamtani, H., Gangal, V., Hovy, E. and Nyberg, E., 2017. Shakespearizing modern language using copy-enriched sequence-to-sequence models.
    - Fell, M. and Sporleder, C., 2014. Lyrics-based analysis and classification of music. In Proceedings of COLING 2014, Technical Papers (pp. 620-631).
