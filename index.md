@@ -38,6 +38,8 @@ The seminar will be held in English.
    - Ronja Laarmann-Quante, Stefanie Dipper and Eva Belke (2019). The Making of the Litkey Corpus, a richly annotated longitudinal corpus of German texts written by primary school children. In Proceedings of the ACL Linguistic Annotation Workshop (LAW 13), pp. 43?55. Florence, Italy. Link
    - Katrin Ortmann and Stefanie Dipper (2019). Variation between Different Discourse Types: Literate vs. Oral. In Proceedings of the NAACL-Workshop on NLP for Similar Languages, Varieties and Dialects (VarDial), pp. 64-79. Minneapolis, MN. PDF
    - Kim, E. and Klinger, R., 2018, August. Who feels what and why? annotation of a literature corpus with semantic roles of emotions. COLING
+   - Asai, A., Evensen, S., Golshan, B., Halevy, A., Li, V., Lopatenko, A., Stepanov, D., Suhara, Y., Tan, W.C. and Xu, Y., 2018. Happydb: A corpus of 100,000 crowdsourced happy moments. LREC 2018
+   - Khandelwal, A., Swami, S., Akhtar, S.S. and Shrivastava, M., 2018. Humor detection in english-hindi code-mixed social media content: Corpus and baseline system. LREC 2018
    - Benikova, D., Biemann, C. and Reznicek, M., 2014, May. NoSta-D Named Entity Annotation for German: Guidelines and Dataset. In LREC (pp. 2524-2531).
    - Kiritchenko and Mohammad. Capturing Reliable Fine-Grained Sentiment Associations by Crowdsourcing and Best-Worst Scaling. In NAACL 2016.
    - Kiritchenko and Mohammad. Best-Worst Scaling More Reliable than Rating Scales: A Case Study on Sentiment Intensity Annotation. In ACL 2017.
