@@ -60,7 +60,7 @@ The seminar will be held in English.
    - Steen et al. A method for linguistic metaphor identification: From MIP to MIPVU, volume 14. John Benjamins Publishing, 2010.
    - Leong et al. A Report on the 2018 VUA Metaphor Detection Shared Task. In Workshop on Figurative Language Processing
    - Felbo, B., Mislove, A., Søgaard, A., Rahwan, I. and Lehmann, S., 2017. Using millions of emoji occurrences to learn any-domain representations for detecting sentiment, emotion and sarcasm. EMNLP 2017, Copenhagen.
-
+   - Bulat, L., Clark, S.C. and Shutova, E., 2017. Modelling metaphor with attribute-based semantics.
 
 
 - **Semantic Change & Semantic Drift**
@@ -107,6 +107,7 @@ The seminar will be held in English.
 
 
 - **Literature: Fiction & Narration**
+   - Reagan, A.J., Mitchell, L., Kiley, D., Danforth, C.M. and Dodds, P.S., 2016. The emotional arcs of stories are dominated by six basic shapes. EPJ Data Science, 5(1), p.31.
    - Chambers, N. and Jurafsky, D., 2009, August. Unsupervised learning of narrative schemas and their participants. ACL AFNLP
    - Maharjan, S., Kar, S., Montes-y-Gómez, M., Gonzalez, F.A. and Solorio, T., 2018. Letting emotions flow: Success prediction by modeling the flow of emotions in books. NAACL.
    - Kim, E. and Klinger, R., 2019. Frowning Frodo, Wincing Leia, and a Seriously Great Friendship: Learning to Classify Emotional Relationships of Fictional Characters. NAACL-HLT
@@ -125,7 +126,7 @@ The seminar will be held in English.
 
 
      
-- **Stylometry & Authorship**
+- **Stylometry & Variation**
    - Field, A. and Tsvetkov, Y., 2019. Entity-centric contextual affective analysis. ACL 2019
    - Jhamtani, H., Gangal, V., Hovy, E. and Nyberg, E., 2017. Shakespearizing modern language using copy-enriched sequence-to-sequence models.
    - Fell, M. and Sporleder, C., 2014. Lyrics-based analysis and classification of music. In Proceedings of COLING 2014, Technical Papers (pp. 620-631).
