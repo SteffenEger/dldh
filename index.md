@@ -139,6 +139,8 @@ The seminar will be held in English.
    - Haider and Kuhn. Supervised Rhyme Detection with Siamese Recurrent Networks. In LaTeCH-CLfL 2018.
    - Fell, M. and Sporleder, C., 2014. Lyrics-based analysis and classification of music. COLING 2014, Technical Papers (pp. 620-631).
    - Manex Agirrezabal, Iñaki Alegria, and Mans Hulden. 2016. Machine learning for metrical analysis of English poetry. In Proceedings of COLING
+   - Kao, J. and Jurafsky, D., 2012. A computational analysis of style, affect, and imagery in contemporary poetry. In Proceedings of the NAACL-HLT 2012 Workshop on Computational Linguistics for Literature (pp. 8-17).
+   - Jhamtani, H., Mehta, S.V., Carbonell, J. and Berg-Kirkpatrick, T., 2019. Learning Rhyming Constraints using Structured Adversaries. EMNLP 2019
    - Alex Estes and Christopher Hench. 2016. Supervised machine learning for hybrid meter. CLfL
    - Folgert Karsdorp, Peter van Kranenburg, and Enrique Manjavacas (2019) Learning Similarity Metrics for Melody Retrieval.
    - Elgammal, A., Liu, B., Elhoseiny, M. and Mazzone, M., 2017. CAN: Creative adversarial networks, generating" art" by learning about styles and deviating from style norms. ICCC
