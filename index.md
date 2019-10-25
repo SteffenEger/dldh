@@ -40,6 +40,7 @@ The seminar will be held in English.
    - Kim, E. and Klinger, R., 2018, August. Who feels what and why? annotation of a literature corpus with semantic roles of emotions. COLING
    - Asai, A., Evensen, S., Golshan, B., Halevy, A., Li, V., Lopatenko, A., Stepanov, D., Suhara, Y., Tan, W.C. and Xu, Y., 2018. Happydb: A corpus of 100,000 crowdsourced happy moments. LREC 2018
    - Khandelwal, A., Swami, S., Akhtar, S.S. and Shrivastava, M., 2018. Humor detection in english-hindi code-mixed social media content: Corpus and baseline system. LREC 2018
+   - Troiano, E., Padó, S. and Klinger, R., 2019. Crowdsourcing and Validating Event-focused Emotion Corpora for German and English. ACL 2019
    - Benikova, D., Biemann, C. and Reznicek, M., 2014, May. NoSta-D Named Entity Annotation for German: Guidelines and Dataset. In LREC (pp. 2524-2531).
    - Kiritchenko and Mohammad. Capturing Reliable Fine-Grained Sentiment Associations by Crowdsourcing and Best-Worst Scaling. In NAACL 2016.
    - Kiritchenko and Mohammad. Best-Worst Scaling More Reliable than Rating Scales: A Case Study on Sentiment Intensity Annotation. In ACL 2017.
@@ -62,6 +63,7 @@ The seminar will be held in English.
    - Buechel and Hahn. 2018. Emotion Representation Mapping for Automatic Lexicon Construction (Mostly) Performs on Human Level. In COLING 2018
    - Buechel and Hahn. EmoBank: Studying the Impact of Annotation Perspective and Representation Format on Dimensional Emotion Analysis. In EACL 2017. 
    - Buechel and Hahn. Word Emotion Induction for Multiple Languages as a Deep Multi-Task Learning Problem. In NAACL 2018.
+   - Klinger, R., De Clercq, O., Mohammad, S.M. and Balahur, A., 2018. Iest: Wassa-2018 implicit emotions shared task. EMNLP 2018
    - Bostan and Klinger. A Survey and Experiments on Annotated Corpora for Emotion Classification in Text. In Coling 2018.
    - Do Dinh, Eger, and Gurevych. Killing Four Birds with Two Stones: Multi-Task Learning for Non-Literal Language Detection. In COLING 2018
    - DoDinh, Wieland, and Gurevych. Weeding out Conventionalized Metaphors: A Corpus of Novel Metaphor Annotations. In EMNLP 2018.
