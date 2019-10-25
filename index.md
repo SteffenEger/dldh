@@ -46,6 +46,14 @@ The seminar will be held in English.
    - Simpson and Gurevych. A Bayesian Approach for Sequence Tagging with Crowds. In EMNLP 2019.
 
 
+- **OCR & Spelling Normalization**
+   - Bollmann. A Large-Scale Comparison of Historical Text Normalization Systems. In NAACL 2019.
+   - Flachs, Bollmann, Sogaard. Historical Text Normalization with Delayed Rewards. In ACL 2019.
+   - Bollmann, Bingel, Sogaard. Learning attention for historical text normalization by learning to pronounce. In ACL 2017. 
+   - Bollmann, Dipper, Petran. Evaluating Inter-Annotator Agreement on Historical Spelling Normalization. In LAW 10, 2016. 
+   - Schnober, Eger, Do Dinh, Gurevych. Still not there? Comparing traditional sequence-to-sequence models to encoder-decoder neural networks on monotone string translation tasks. In COLING 2016. 
+   - Amrhein, Clematide. Supervised OCR Error Detection and Correction Using Statistical and Neural Machine Translation Methods. In JLCL 2018. 
+
         
 - **Metaphors & Emotions**
    - Buechel and Hahn. Readers vs. writers vs. texts: Coping with different perspectives of text understanding in emotion annotation. In LAW 2017. (Also Corpus)
@@ -83,31 +91,24 @@ The seminar will be held in English.
 
 
 
-- **OCR & Spelling Normalization**
-   - Bollmann. A Large-Scale Comparison of Historical Text Normalization Systems. In NAACL 2019.
-   - Flachs, Bollmann, Sogaard. Historical Text Normalization with Delayed Rewards. In ACL 2019.
-   - Bollmann, Bingel, Sogaard. Learning attention for historical text normalization by learning to pronounce. In ACL 2017. 
-   - Bollmann, Dipper, Petran. Evaluating Inter-Annotator Agreement on Historical Spelling Normalization. In LAW 10, 2016. 
-   - Schnober, Eger, Do Dinh, Gurevych. Still not there? Comparing traditional sequence-to-sequence models to encoder-decoder neural networks on monotone string translation tasks. In COLING 2016. 
-   - Amrhein, Clematide. Supervised OCR Error Detection and Correction Using Statistical and Neural Machine Translation Methods. In JLCL 2018. 
+- **Stylometry & Variation**
+   - Field, A. and Tsvetkov, Y., 2019. Entity-centric contextual affective analysis. ACL 2019
+   - Jhamtani, H., Gangal, V., Hovy, E. and Nyberg, E., 2017. Shakespearizing modern language using copy-enriched sequence-to-sequence models.
+   - Fell, M. and Sporleder, C., 2014. Lyrics-based analysis and classification of music. In Proceedings of COLING 2014, Technical Papers (pp. 620-631).
+   - Mike Kestemont et al. 2019. Overview of the cross-domain authorship attribution task at {PAN} 2019. In Working Notes CLEF.
+   - Evert et al. Towards a better understanding of Burrows?s Delta in literary authorship attribution. In Workshop on Computational Linguistics for Literature (CLfL), 2015.
+   - Faruqui, M. and Pado, S., 2012. Towards a model of formal and informal address in english. In Proceedings of the 13th EACL. 
+   - Kao, J. and Jurafsky, D., 2012. A computational analysis of style, affect, and imagery in contemporary poetry. In Proceedings of the NAACL-HLT 2012 Workshop on Computational Linguistics for Literature (pp. 8-17).
+   - Herbelot, A., 2014. The semantics of poetry: A distributional reading. Digital Scholarship in the Humanities, 30(4), pp.516-531.
+   - Ousidhoum, N., Lin, Z., Zhang, H., Song, Y. and Yeung, D.Y., 2019. Multilingual and Multi-Aspect Hate Speech Analysis. arXiv preprint arXiv:1908.11049.
+   - Ficler, J., & Goldberg, Y. 2017. Controlling linguistic style aspects in neural language generation. EMNLP Workshop on Stylistic Variation.
+   - Smith, D.A., Cordell, R. and Dillon, E.M., 2013, October. Infectious texts: Modeling text reuse in nineteenth-century newspapers. In 2013 IEEE International Conference on Big Data (pp. 86-94). IEEE 
+   - Hovy, D. and Purschke, C., 2018. Capturing regional variation with distributed place representations and geographic retrofitting. In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing (pp. 4383-4394).
+   - Dai, N., Liang, J., Qiu, X. and Huang, X., 2019. Style Transformer: Unpaired Text Style Transfer without Disentangled Latent Representation. ACL 2019
+
 
 
       
-- **Literature: Poetry & Arts**
-   - Zhang and Lapata. Chinese Poetry Generation with Recurrent Neural Networks. In EMNLP 2014.
-   - Ghazvininejad et al. Hafez: an interactive Poetry Generation System. In ACL Demo papers 2017.
-   - Hopkins and Kiela. Automatically Generating Rhythmic Verse with Neural Networks. In ACL 2017.
-   - Lau et al. DeepSpeare: A joint neural model of poetic language, meter and rhyme. In ACL 2018.
-   - Haider and Kuhn. Supervised Rhyme Detection with Siamese Recurrent Networks. In LaTeCH-CLfL 2018.
-   - Fell, M. and Sporleder, C., 2014. Lyrics-based analysis and classification of music. COLING 2014, Technical Papers (pp. 620-631).
-   - Manex Agirrezabal, Iñaki Alegria, and Mans Hulden. 2016. Machine learning for metrical analysis of English poetry. In Proceedings of COLING
-   - Alex Estes and Christopher Hench. 2016. Supervised machine learning for hybrid meter. CLfL
-   - Folgert Karsdorp, Peter van Kranenburg, and Enrique Manjavacas (2019) Learning Similarity Metrics for Melody Retrieval.
-   - Elgammal, A., Liu, B., Elhoseiny, M. and Mazzone, M., 2017. CAN: Creative adversarial networks, generating" art" by learning about styles and deviating from style norms. ICCC
-   - Sabatelli, M., Kestemont, M., Daelemans, W. and Geurts, P., 2018. Deep transfer learning for art classification problems. ECCV
-
-
-
 
 - **Literature: Fiction & Narration**
    - Reagan, A.J., Mitchell, L., Kiley, D., Danforth, C.M. and Dodds, P.S., 2016. The emotional arcs of stories are dominated by six basic shapes. EPJ Data Science, 5(1), p.31.
@@ -128,21 +129,20 @@ The seminar will be held in English.
 
 
 
+- **Literature: Poetry & Arts**
+   - Zhang and Lapata. Chinese Poetry Generation with Recurrent Neural Networks. In EMNLP 2014.
+   - Ghazvininejad et al. Hafez: an interactive Poetry Generation System. In ACL Demo papers 2017.
+   - Hopkins and Kiela. Automatically Generating Rhythmic Verse with Neural Networks. In ACL 2017.
+   - Lau et al. DeepSpeare: A joint neural model of poetic language, meter and rhyme. In ACL 2018.
+   - Haider and Kuhn. Supervised Rhyme Detection with Siamese Recurrent Networks. In LaTeCH-CLfL 2018.
+   - Fell, M. and Sporleder, C., 2014. Lyrics-based analysis and classification of music. COLING 2014, Technical Papers (pp. 620-631).
+   - Manex Agirrezabal, Iñaki Alegria, and Mans Hulden. 2016. Machine learning for metrical analysis of English poetry. In Proceedings of COLING
+   - Alex Estes and Christopher Hench. 2016. Supervised machine learning for hybrid meter. CLfL
+   - Folgert Karsdorp, Peter van Kranenburg, and Enrique Manjavacas (2019) Learning Similarity Metrics for Melody Retrieval.
+   - Elgammal, A., Liu, B., Elhoseiny, M. and Mazzone, M., 2017. CAN: Creative adversarial networks, generating" art" by learning about styles and deviating from style norms. ICCC
+   - Sabatelli, M., Kestemont, M., Daelemans, W. and Geurts, P., 2018. Deep transfer learning for art classification problems. ECCV
+
+
+
      
-- **Stylometry & Variation**
-   - Field, A. and Tsvetkov, Y., 2019. Entity-centric contextual affective analysis. ACL 2019
-   - Jhamtani, H., Gangal, V., Hovy, E. and Nyberg, E., 2017. Shakespearizing modern language using copy-enriched sequence-to-sequence models.
-   - Fell, M. and Sporleder, C., 2014. Lyrics-based analysis and classification of music. In Proceedings of COLING 2014, Technical Papers (pp. 620-631).
-   - Mike Kestemont et al. 2019. Overview of the cross-domain authorship attribution task at {PAN} 2019. In Working Notes CLEF.
-   - Evert et al. Towards a better understanding of Burrows?s Delta in literary authorship attribution. In Workshop on Computational Linguistics for Literature (CLfL), 2015.
-   - Faruqui, M. and Pado, S., 2012. Towards a model of formal and informal address in english. In Proceedings of the 13th EACL. 
-   - Kao, J. and Jurafsky, D., 2012. A computational analysis of style, affect, and imagery in contemporary poetry. In Proceedings of the NAACL-HLT 2012 Workshop on Computational Linguistics for Literature (pp. 8-17).
-   - Herbelot, A., 2014. The semantics of poetry: A distributional reading. Digital Scholarship in the Humanities, 30(4), pp.516-531.
-   - Ousidhoum, N., Lin, Z., Zhang, H., Song, Y. and Yeung, D.Y., 2019. Multilingual and Multi-Aspect Hate Speech Analysis. arXiv preprint arXiv:1908.11049.
-   - Ficler, J., & Goldberg, Y. 2017. Controlling linguistic style aspects in neural language generation. EMNLP Workshop on Stylistic Variation.
-   - Smith, D.A., Cordell, R. and Dillon, E.M., 2013, October. Infectious texts: Modeling text reuse in nineteenth-century newspapers. In 2013 IEEE International Conference on Big Data (pp. 86-94). IEEE 
-   - Hovy, D. and Purschke, C., 2018. Capturing regional variation with distributed place representations and geographic retrofitting. In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing (pp. 4383-4394).
-   - Dai, N., Liang, J., Qiu, X. and Huang, X., 2019. Style Transformer: Unpaired Text Style Transfer without Disentangled Latent Representation. ACL 2019
-
-
 
