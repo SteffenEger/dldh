@@ -23,7 +23,7 @@ The seminar will be held in English.
 |Session|Date|Topics|Presenter|
 |-|------|---------------------------|-------------|
 |1 | 24.10 | [Kickoff](slides/DLDH_kickoff2.pdf) & [What is Digital Humanities](https://drive.google.com/open?id=17Z_FjdRM5JfI_J5T7RmH67003dOEmhY3) | Thomas Haider ||
-|2 | 31.10 | What is Deep Learning | Steffen Eger ||
+|2 | 31.10 | [What is Deep Learning](https://drive.google.com/open?id=10Dg1Hc-9Vg5r6b82gRvzpZyhLrpCVruP) | Steffen Eger ||
 |3 | 14.11 | Corpora & Annotation  ||
 |4 | 28.11 | OCR & Spelling Normalization ||
 |5 | 12.12 | Metaphors & Emotions  ||
