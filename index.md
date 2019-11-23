@@ -24,7 +24,7 @@ The seminar will be held in English.
 |-|------|---------------------------|-------------|
 |1 | 24.10 | [Kickoff](slides/DLDH_kickoff2.pdf) & [What is Digital Humanities](https://drive.google.com/open?id=17Z_FjdRM5JfI_J5T7RmH67003dOEmhY3) | Thomas Haider ||
 |2 | 31.10 | [What is Deep Learning](https://drive.google.com/open?id=10Dg1Hc-9Vg5r6b82gRvzpZyhLrpCVruP) | Steffen Eger ||
-|3 | 14.11 | Corpora-1,[Corpora-2](https://drive.google.com/open?id=1hJ9yU0teVr0FyGbxW3nu_LAfNvnrYiR-) & [Annotation-1](https://drive.google.com/open?id=1NlhW2UYLc7vysvmR4AyoQZ0DLpJtke2E),Annotation-2  ||
+|3 | 14.11 | Corpora (GLUE, [Hatespeech](https://drive.google.com/open?id=1hJ9yU0teVr0FyGbxW3nu_LAfNvnrYiR-) & Annotation ([BW Scaling](https://drive.google.com/open?id=1NlhW2UYLc7vysvmR4AyoQZ0DLpJtke2E),[Bayesian](https://drive.google.com/open?id=1odBzZV51fMj0-1vfnj6RObN6IJ_jVUAS))  ||
 |4 | 28.11 | OCR & Spelling Normalization ||
 |5 | 12.12 | Metaphors & Emotions  ||
 |6 | 19.12 | Semantic Change & Semantic Drift   ||
