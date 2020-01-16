@@ -28,7 +28,7 @@ The seminar will be held in English.
 |4 | 28.11 | Spelling Normalization ([Comparison](https://drive.google.com/open?id=1toGmLPlMXl-zsjZScTJAIqNrG2zhAuaF), [Multi-Task](https://drive.google.com/open?id=129b2NbZ4B6O2HawP2PcjRlfiuZ_3xCu-)) & OCR ([Image-to-text](https://drive.google.com/open?id=1vNskkJhbDC5BISapJpiPX4ex4FzLRZqf), [Post-Correction](https://drive.google.com/open?id=1PiYXJfFqIh7SZNFY3pezxEMqSzfwB_Qs)) ||
 |5 | 12.12 | Metaphors ([Novel Metaphors](https://drive.google.com/open?id=1UbOeJ1nqJXewH9rAmGIr7RkRILMdn82T), [Similarity Network](https://drive.google.com/open?id=1Rv4RtRLvI9efrQ6CMoujCzxEzkr_M7oS)) & Emotions ([Implicit Emotions](https://drive.google.com/open?id=1-hi4EDEt0bzaTGcadHZTkeO21OMbJKaZ), [Twitter](https://drive.google.com/open?id=1mLoEIGWY6E78U0C6ipyL-HiOrRyR15q1)) ||
 |6 | 19.12 | Semantic Change ([Laws of semantic change](https://drive.google.com/open?id=1DVEiDNLXS_gSCQrk28yAwIP7bSorbNfM), [Cultural vs. Linguistic Shift](https://drive.google.com/open?id=1OBgHABQDw8vojYHF6SDp3uGQRJHm160q)) & Semantic Drift ([Phylogeny](https://drive.google.com/open?id=1jLf_Xi4PHu91zF41DQalouuOOX57pFYw), [Semantic Drift](https://drive.google.com/open?id=1JlHtyg_OCZw2O81bNkxfonmQNxqZH3J_))  ||
-|7 | 16.01 | Stylometry & Variation||
+|7 | 16.01 | Stylometry ([Music classification](https://drive.google.com/open?id=1DTcG5RR7lbKOe5Uh4GH-WUvRKXkh0WH5), [Shakespearing Modern English](https://drive.google.com/open?id=1uOVNormPV1yyxifWQsJqDghTz2auPeey)) & Variation ([Regional Variation](https://drive.google.com/open?id=1BCOSlIetq91AQr4SdhzHj64y41-FUGDx),[Style-conditioned Generation](https://drive.google.com/open?id=1jnrUxMBvdYJdyI-bmwDlggf_Eg5T7jQx))||
 |8 | 23.01 | Fiction & Narration||
 |9 | 30.01 | Poetry & Arts ||
 
