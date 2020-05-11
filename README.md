@@ -32,6 +32,14 @@ The seminar will be held in English.
 |8 | 23.01 | Fiction ([Animacy Detection](https://drive.google.com/open?id=1H-cjR37uQk2thRGWXseCxISmOQ_GPTcP), [Social Networks in Fiction](https://drive.google.com/open?id=1ufo3sGnvk-VC_Tdcs-gfVnW0fL8lBG4N)) & Narration ([Story generation](https://drive.google.com/open?id=1rOW-qGF3pVEkGWfzdAy0HsPd2APt6Ox2), [Emotional arcs](https://drive.google.com/open?id=1gpBvFYuEh3bBWRYI4e8vnzq_AdO_o0wh))||
 |9 | 30.01 | Poetry ([Style-adjustable poetry generation](https://drive.google.com/open?id=1oL-dzlasRft4XRZhOBeUDn-ctGMeToYj), [GANs for poetry generation](https://drive.google.com/open?id=1nKRMTNsuWNquVx0SacUpSSafnMgxQHhm)) & Arts ([Art generation](https://drive.google.com/open?id=1E1R8qo9Erk13wB5oVePP1ZHcF-SYYhKr), [Similarity Metrics for Music](https://drive.google.com/open?id=19gXYDYoGLy63fKkDer_hxriHO7ikEfhc)) ||
 
+#### Best term papers
+
+We selected the following term papers as the best ones in the course:
+   * Liane Vogel: [Art generation]()
+   * Jonas Belouadi: [Annotation]()
+   * Daniel Hartung: [OCR post-correction]()
+   * Eric Frodl: [Music generation]()
+
 ### Literature
 
 - **Corpora & Annotation**
