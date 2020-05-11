@@ -38,7 +38,7 @@ We selected the following term papers as the best ones in the course:
    * Liane Vogel: [Art generation](https://drive.google.com/open?id=1JypuvilZPcNDOlhlIPdbgqWrqUEwsBF_)
    * Jonas Belouadi: [Annotation](https://drive.google.com/open?id=1QNawSRoNC_pZG5yC9Vij5n08mwdKdwiD)
    * Daniel Hartung: [OCR post-correction](https://drive.google.com/open?id=1aRGm7gH0r0tcUjMHD4k7DIEakEYtWU2z)
-   * Eric Frodl: [Music generation]()
+   * Eric Frodl: [Music generation](https://drive.google.com/open?id=1Q4D0KL1HYJqgpW2PU-XhUZ-7MvNou2wb)
 
 ### Literature
 
