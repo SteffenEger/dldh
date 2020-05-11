@@ -35,9 +35,9 @@ The seminar will be held in English.
 #### Best term papers
 
 We selected the following term papers as the best ones in the course:
-   * Liane Vogel: [Art generation]()
-   * Jonas Belouadi: [Annotation]()
-   * Daniel Hartung: [OCR post-correction]()
+   * Liane Vogel: [Art generation](https://drive.google.com/open?id=1JypuvilZPcNDOlhlIPdbgqWrqUEwsBF_)
+   * Jonas Belouadi: [Annotation](https://drive.google.com/open?id=1QNawSRoNC_pZG5yC9Vij5n08mwdKdwiD)
+   * Daniel Hartung: [OCR post-correction](https://drive.google.com/open?id=1aRGm7gH0r0tcUjMHD4k7DIEakEYtWU2z)
    * Eric Frodl: [Music generation]()
 
 ### Literature
