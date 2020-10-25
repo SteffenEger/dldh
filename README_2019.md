@@ -1,7 +1,7 @@
 # Deep Learning and Digital Humanities (20-00-1080-se Deep Learning und Digital Humanities)
 
 ### Organization
-The seminar will be held by [Steffen Eger](https://www.informatik.tu-darmstadt.de/aiphes/aiphes/irg_position/index.en.jsp) and [Thomas Haider](https://www.aesthetics.mpg.de/institut/mitarbeiterinnen/thomas-haider.html)
+The seminar will be held by [Steffen Eger](https://steffeneger.github.io/) and [Thomas Haider](https://www.aesthetics.mpg.de/institut/mitarbeiterinnen/thomas-haider.html)
 ### Meetings
 Biweekly, Thursdays from 18:15 to 19:45, in Darmstadt Stadtmitte S1 08/18.
 ### Language
