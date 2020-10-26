@@ -1,3 +1,5 @@
+# Deep Learning and Digital Humanities (DLDH), 2020
+
 ## Organization
 
 Two video lectures, introducing Deep Learning and Digital Humanities, will be available by the end of November. One zoom session will be held in the first week of December to discuss topics and further organization.
