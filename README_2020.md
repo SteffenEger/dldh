@@ -79,3 +79,7 @@ Each topic will be assigned 1 to 4 students, who jointly need to present it. **N
       - Shutova, Models of Metaphor in NLP. In ACL 2010
       - Shutova et al., Metaphor Identification Using Verb and Noun Clustering. Coling 2010
       - Schlechtweg et al., German in Flux: Detecting Metaphoric Change via Word Entropy. CONLL 2017
+      - Rai and Chakraverty., A Survey on Computational Metaphor Processing. ACM Computing Surveys 2020.
+
+* **OCR & Spelling Normalization**
+    - 
