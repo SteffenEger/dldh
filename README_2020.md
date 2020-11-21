@@ -9,6 +9,7 @@ The students will present their topics in three sessions in January. Students ha
 The seminar will cover 8-10 topics. Depending on the number of participants, we will allow multiple students per topics (e.g., 1-3). 
 
 The seminar will be held by [Steffen Eger](https://steffeneger.github.io/) and [Thomas Haider](https://www.aesthetics.mpg.de/institut/mitarbeiterinnen/thomas-haider.html)
+
 ### Meetings
 There will be one meeting in early December (most likely: Thursday December 3, e.g., 16-17) to discuss topics and organizatinal issues.
 
@@ -65,3 +66,16 @@ Each topic will be assigned 1 to 4 students, who jointly need to present it. **N
        - Dubossarsky et al. Time-Out: Temporal Referencing for Robust Modeling of Lexical Semantic Change. In EMNLP 2019.
        - Xu and Kemp. A computational evaluation of two laws of semantic change. In CogSciSoc 2015.
        - Beinborn and Choenni. Semantic Drift in Multilingual Representations. Arxiv, 2019.
+
+* **Metaphor analysis & detection**
+   - [Verbal Multiword Expressions for Identification of Metaphor](https://www.aclweb.org/anthology/2020.acl-main.259/)
+   - [The Pragmatics behind Politics: Modelling Metaphor, Framing and Emotion in Political Discourse](https://www.aclweb.org/anthology/2020.findings-emnlp.402/)
+   - [https://arxiv.org/abs/2002.12854](https://arxiv.org/abs/2002.12854)
+   
+   - Background papers:
+      - DoDinh, Wieland, and Gurevych. Weeding out Conventionalized Metaphors: A Corpus of Novel Metaphor Annotations. In EMNLP 2018.
+      - Rei et al. Grasping the Finer Point: A Supervised Similarity Network for Metaphor Detection. In EMNLP 2017.
+      - Mohammad et al. Metaphor as a Medium for Emotion: An Empirical Study. In *SEM 2017.
+      - Shutova, Models of Metaphor in NLP. In ACL 2010
+      - Shutova et al., Metaphor Identification Using Verb and Noun Clustering. Coling 2010
+      - Schlechtweg et al., German in Flux: Detecting Metaphoric Change via Word Entropy. CONLL 2017
