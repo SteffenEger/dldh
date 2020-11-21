@@ -40,9 +40,9 @@ Each topic will be assigned 1 to 4 students, who jointly need to present it. **N
 * **Emotion**
 
    - [GoEmotions: A Dataset of Fine-Grained Emotions](https://arxiv.org/pdf/2005.00547.pdf)
-   - [EmoTag1200: Understanding the Association between Emojis and Emotions]
-   - [Modeling Protagonist Emotions for Emotion-Aware Storytelling]
-   - [Hashtags, Emotions, and Comments: A Large-Scale Dataset to Understand Fine-Grained Social Emotions to Online Topics]
+   - [EmoTag1200: Understanding the Association between Emojis and Emotions](https://www.aclweb.org/anthology/2020.emnlp-main.720.pdf)
+   - [Modeling Protagonist Emotions for Emotion-Aware Storytelling](https://arxiv.org/abs/2010.06822)
+   - [Hashtags, Emotions, and Comments: A Large-Scale Dataset to Understand Fine-Grained Social Emotions to Online Topics](https://www.aclweb.org/anthology/2020.emnlp-main.106/)
    - [PO-EMO: Conceptualization, Annotation, and Modeling of Aesthetic Emotions in German and English Poetry](https://arxiv.org/abs/2003.07723)
 
    - Background Papers:
