@@ -82,4 +82,5 @@ Each topic will be assigned 1 to 4 students, who jointly need to present it. **N
       - Rai and Chakraverty., A Survey on Computational Metaphor Processing. ACM Computing Surveys 2020.
 
 * **OCR & Spelling Normalization**
-    - 
+    - [Neural Machine Translation with BERT for Post-OCR Error Detection and Correction](https://dl.acm.org/doi/abs/10.1145/3383583.3398605?casa_token=sEXjYx5qb1YAAAAA:3uJ-CnkBqZj_ma6tm6oVmMLOpjKMfmZ0ZIvIXOzvvjx9ePf2OChGCHAmiKnxVuk2ax2JL1665X47Bg)
+    - [Optical character recognition with neural networks and post-correction with finite state methods](https://link.springer.com/article/10.1007/s10032-020-00359-9)
