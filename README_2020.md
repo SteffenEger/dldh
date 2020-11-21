@@ -74,6 +74,7 @@ Each topic will be assigned 1 to 4 students, who jointly need to present it. **N
    
    - Background papers:
       - DoDinh, Wieland, and Gurevych. Weeding out Conventionalized Metaphors: A Corpus of Novel Metaphor Annotations. In EMNLP 2018.
+      - DoDinh, Eger, Gurevych. Killing Four Birds with Two Stones: Multi-Task Learning for Non-Literal Language Detection. In Coling 2018.
       - Rei et al. Grasping the Finer Point: A Supervised Similarity Network for Metaphor Detection. In EMNLP 2017.
       - Mohammad et al. Metaphor as a Medium for Emotion: An Empirical Study. In *SEM 2017.
       - Shutova, Models of Metaphor in NLP. In ACL 2010
