@@ -13,5 +13,26 @@ The seminar will be held by [Steffen Eger](https://steffeneger.github.io/) and [
 There will be one meeting in early December (most likely: Thursday December 3, e.g., 16-17) to discuss topics and organizatinal issues.
 
 There will be three seminar sessions in January where students present their topics (3min) and answer questions. Students also need to upload videos prior to the seminar sessions.
+
 ### Language
 The seminar will be held in English.
+
+### Topics
+
+We will offer 9-10 topics:
+
+- Emotion detection & analysis
+- Metaphor detection & analysis 
+- Poetry generation & analysis
+- Art
+- Fiction & Narration
+- Semantic Change
+- Corpora & Annotation
+- Spelling normalization & OCR
+- Stylometry
+- Analysis of scientific texts
+
+Each topic will be assigned 1 to 4 students, who jointly need to present it.
+
+### Literature
+
