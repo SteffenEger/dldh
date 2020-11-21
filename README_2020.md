@@ -48,3 +48,20 @@ Each topic will be assigned 1 to 4 students, who jointly need to present it. **N
         - Jhamtani, H., Mehta, S.V., Carbonell, J. and Berg-Kirkpatrick, T., 2019. Learning Rhyming Constraints using Structured Adversaries. EMNLP 2019
         - Kao, J. and Jurafsky, D., 2012. A computational analysis of style, affect, and imagery in contemporary poetry. In Proceedings of the NAACL-HLT 2012 Workshop on Computational Linguistics for Literature (pp. 8-17).
         - Manex Agirrezabal, Iñaki Alegria, and Mans Hulden. 2016. Machine learning for metrical analysis of English poetry. In Proceedings of COLING
+
+* **Semantic Change**
+    - [Simple, Interpretable and Stable Method for Detecting Words with Usage Change across Corpora](https://www.aclweb.org/anthology/2020.acl-main.51/)
+    - [A Timely Intervention: Tracking the Changing Meanings of Political Concepts with Word Vectors](https://www.cambridge.org/core/journals/political-analysis/article/timely-intervention-tracking-the-changing-meanings-of-political-concepts-with-word-vectors/DDF3B5833A12E673EEE24FBD9798679E)
+    - [Dynamic Contextualized Word Embeddings](https://arxiv.org/pdf/2010.12684.pdf)
+    - [SemEval-2020 Task 1: Unsupervised Lexical Semantic Change Detection](https://arxiv.org/abs/2007.11464)
+    - [Analysing Lexical Semantic Change with Contextualised Word Representations](https://www.aclweb.org/anthology/2020.acl-main.365/)
+    - [Enriching Word Embeddings with Temporal and Spatial Information](https://www.aclweb.org/anthology/2020.conll-1.1.pdf)
+    
+    - Background papers:
+       - Hamilton et al. 2016. Diachronic Word Embeddings Reveal Statistical Laws of Semantic Change. In ACL 2016.
+       - Eger and Mehler 2016. On the Linearity of Semantic Change: Investigating Meaning Variation via Dynamic Graph Models. In ACL 2016.
+       - Hamilton et al. Cultural Shift or Linguistic Drift? Comparing Two Computational Measures of Semantic Change. In EMNLP 2016.
+       - Kutuzov et al. Diachronic word embeddings and semantic shifts: a survey. In COLING 2018.
+       - Dubossarsky et al. Time-Out: Temporal Referencing for Robust Modeling of Lexical Semantic Change. In EMNLP 2019.
+       - Xu and Kemp. A computational evaluation of two laws of semantic change. In CogSciSoc 2015.
+       - Beinborn and Choenni. Semantic Drift in Multilingual Representations. Arxiv, 2019.
