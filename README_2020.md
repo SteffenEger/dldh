@@ -70,7 +70,7 @@ Each topic will be assigned 1 to 4 students, who jointly need to present it. **N
 * **Metaphor analysis & detection**
    - [Verbal Multiword Expressions for Identification of Metaphor](https://www.aclweb.org/anthology/2020.acl-main.259/)
    - [The Pragmatics behind Politics: Modelling Metaphor, Framing and Emotion in Political Discourse](https://www.aclweb.org/anthology/2020.findings-emnlp.402/)
-   - [https://arxiv.org/abs/2002.12854](https://arxiv.org/abs/2002.12854)
+   - [Metaphoric Paraphrase Generation](https://arxiv.org/abs/2002.12854)
    
    - Background papers:
       - DoDinh, Wieland, and Gurevych. Weeding out Conventionalized Metaphors: A Corpus of Novel Metaphor Annotations. In EMNLP 2018.
