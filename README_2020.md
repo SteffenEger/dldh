@@ -94,3 +94,14 @@ Each topic will be assigned 1 to 4 students, who jointly need to present it. **N
         - Schnober, Eger, Do Dinh, Gurevych. Still not there? Comparing traditional sequence-to-sequence models to encoder-decoder neural networks on monotone string translation tasks. In COLING 2016.
         - Bollmann, Dipper, Petran. Evaluating Inter-Annotator Agreement on Historical Spelling Normalization. In LAW 10, 2016.
         - Bollmann, Bingel, Sogaard. Learning attention for historical text normalization by learning to pronounce. In ACL 2017.
+
+
+* **Analysis of scientific literature**
+  - [CO-Search: COVID-19 Information Retrieval with Semantic Search, Question Answering, and Abstractive Summarization](https://arxiv.org/abs/2006.09595)
+  - [Aspect-based Sentiment Analysis of Scientific Reviews](https://arxiv.org/abs/2006.03257)
+  - [Argument Pair Extraction from Peer Review and Rebuttal via Multi-task Learning](https://www.aclweb.org/anthology/2020.emnlp-main.569.pdf)
+  - [Fact or Fiction: Verifying Scientific Claims](https://arxiv.org/pdf/2004.14974.pdf)
+  
+  - Background papers:
+      - Beltagy et al. SciBERT: A Pretrained Language Model for Scientific Text. In EMNLP 2019
+      - Gao et al., Does My Rebuttal Matter? Insights from a Major NLP Conference. In NAACL 2019
