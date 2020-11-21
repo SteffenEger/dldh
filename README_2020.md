@@ -45,5 +45,6 @@ Each topic will be assigned 1 to 4 students, who jointly need to present it.
         - Zhang and Lapata. Chinese Poetry Generation with Recurrent Neural Networks. In EMNLP 2014.
         - Hopkins and Kiela. Automatically Generating Rhythmic Verse with Neural Networks. In ACL 2017.
         - Lau et al. DeepSpeare: A joint neural model of poetic language, meter and rhyme. In ACL 2018.
+        - Jhamtani, H., Mehta, S.V., Carbonell, J. and Berg-Kirkpatrick, T., 2019. Learning Rhyming Constraints using Structured Adversaries. EMNLP 2019
         - Kao, J. and Jurafsky, D., 2012. A computational analysis of style, affect, and imagery in contemporary poetry. In Proceedings of the NAACL-HLT 2012 Workshop on Computational Linguistics for Literature (pp. 8-17).
         - Manex Agirrezabal, Iñaki Alegria, and Mans Hulden. 2016. Machine learning for metrical analysis of English poetry. In Proceedings of COLING
