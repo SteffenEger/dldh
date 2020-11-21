@@ -37,6 +37,18 @@ Each topic will be assigned 1 to 4 students, who jointly need to present it. **N
 
 ### Literature
 
+* **Emotion**
+
+   - [GoEmotions: A Dataset of Fine-Grained Emotions](https://arxiv.org/pdf/2005.00547.pdf)
+   - [EmoTag1200: Understanding the Association between Emojis and Emotions]
+   - [Modeling Protagonist Emotions for Emotion-Aware Storytelling]
+   - [Hashtags, Emotions, and Comments: A Large-Scale Dataset to Understand Fine-Grained Social Emotions to Online Topics]
+   - [PO-EMO: Conceptualization, Annotation, and Modeling of Aesthetic Emotions in German and English Poetry](https://arxiv.org/abs/2003.07723)
+
+   - Background Papers:
+      - tbd
+
+
 * **Poetry generation & analysis**
    - [Automatic poetry generation from Prosaic text](https://www.aclweb.org/anthology/2020.acl-main.223/)
    - [Acrostic Poem Generation](https://arxiv.org/abs/2010.02239)
