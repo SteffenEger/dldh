@@ -82,5 +82,14 @@ Each topic will be assigned 1 to 4 students, who jointly need to present it. **N
       - Rai and Chakraverty., A Survey on Computational Metaphor Processing. ACM Computing Surveys 2020.
 
 * **OCR & Spelling Normalization**
+    - [Semi-supervised Contextual Historical Text Normalization](https://www.aclweb.org/anthology/2020.acl-main.650/)
     - [Neural Machine Translation with BERT for Post-OCR Error Detection and Correction](https://dl.acm.org/doi/abs/10.1145/3383583.3398605?casa_token=sEXjYx5qb1YAAAAA:3uJ-CnkBqZj_ma6tm6oVmMLOpjKMfmZ0ZIvIXOzvvjx9ePf2OChGCHAmiKnxVuk2ax2JL1665X47Bg)
     - [Optical character recognition with neural networks and post-correction with finite state methods](https://link.springer.com/article/10.1007/s10032-020-00359-9)
+    - [Applying the Transformer to Character-level Transduction](https://arxiv.org/abs/2005.10213)
+    
+    - Background papers:
+        - Bollmann. A Large-Scale Comparison of Historical Text Normalization Systems. In NAACL 2019.
+        - Amrhein, Clematide. Supervised OCR Error Detection and Correction Using Statistical and Neural Machine Translation Methods. In JLCL 2018.
+        - Schnober, Eger, Do Dinh, Gurevych. Still not there? Comparing traditional sequence-to-sequence models to encoder-decoder neural networks on monotone string translation tasks. In COLING 2016.
+        - Bollmann, Dipper, Petran. Evaluating Inter-Annotator Agreement on Historical Spelling Normalization. In LAW 10, 2016.
+        - Bollmann, Bingel, Sogaard. Learning attention for historical text normalization by learning to pronounce. In ACL 2017.
