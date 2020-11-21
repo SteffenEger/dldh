@@ -32,7 +32,7 @@ We will offer 9-10 topics:
 - Stylometry
 - Analysis of scientific texts
 
-Each topic will be assigned 1 to 4 students, who jointly need to present it.
+Each topic will be assigned 1 to 4 students, who jointly need to present it. **Note that groups of 3 or more students need to conduct an own experiment which needs to be discussed in their term paper**
 
 ### Literature
 
