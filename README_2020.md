@@ -36,3 +36,14 @@ Each topic will be assigned 1 to 4 students, who jointly need to present it.
 
 ### Literature
 
+* **Poetry generation & analysis**
+   - [Automatic poetry generation from Prosaic text](https://www.aclweb.org/anthology/2020.acl-main.223/)
+   - [Acrostic Poem Generation](https://arxiv.org/abs/2010.02239)
+   - [PO-EMO: Conceptualization, Annotation, and Modeling of Aesthetic Emotions in German and English Poetry](https://arxiv.org/abs/2003.07723)
+   
+   - Background papers: 
+        - Zhang and Lapata. Chinese Poetry Generation with Recurrent Neural Networks. In EMNLP 2014.
+        - Hopkins and Kiela. Automatically Generating Rhythmic Verse with Neural Networks. In ACL 2017.
+        - Lau et al. DeepSpeare: A joint neural model of poetic language, meter and rhyme. In ACL 2018.
+        - Kao, J. and Jurafsky, D., 2012. A computational analysis of style, affect, and imagery in contemporary poetry. In Proceedings of the NAACL-HLT 2012 Workshop on Computational Linguistics for Literature (pp. 8-17).
+        - Manex Agirrezabal, Iñaki Alegria, and Mans Hulden. 2016. Machine learning for metrical analysis of English poetry. In Proceedings of COLING
