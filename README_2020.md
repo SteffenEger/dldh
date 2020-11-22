@@ -8,7 +8,7 @@ The students will present their topics in three sessions in January. Students ha
 
 The seminar will cover 8-10 topics. Depending on the number of participants, we will allow multiple students per topics (e.g., 1-4). 
 
-The seminar will be held by [Steffen Eger](https://steffeneger.github.io/) and [Thomas Haider](https://www.aesthetics.mpg.de/institut/mitarbeiterinnen/thomas-haider.html)
+The seminar will be held by [Steffen Eger](https://steffeneger.github.io/) and [Thomas Haider](https://www.aesthetics.mpg.de/institut/mitarbeiterinnen/thomas-haider.html).
 
 ### Meetings
 There will be one meeting in early December (most likely: Thursday December 3, e.g., 16-17) to discuss topics and organizatinal issues.
@@ -33,7 +33,7 @@ We will offer 9-10 topics:
 - Stylometry
 - Analysis of scientific texts
 
-Each topic will be assigned 1 to 4 students, who need to present it jointly. **Note that groups of 3 or more students need to conduct an own experiment which needs to be discussed in their term paper**
+Each topic will be assigned 1 to 4 students, who will present it jointly. **Note that groups of 3 or more students must conduct an own experiment to be discussed in their term papers**.
 
 ### Literature
 
