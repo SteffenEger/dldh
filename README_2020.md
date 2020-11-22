@@ -4,14 +4,14 @@
 
 Two video lectures, introducing Deep Learning and Digital Humanities, will be available by the end of November. One zoom session will be held in the first week of December to discuss topics and further organization.
 
-The students will present their topics in three sessions in January. Students have to upload videos which will be discussed in the January sessions. More infos to come.
+The students will present their topics in three sessions in January. Students have to upload videos which will be discussed in the January sessions. 
 
 The seminar will cover 8-10 topics. Depending on the number of participants, we will allow multiple students per topics (e.g., 1-4). 
 
 The seminar will be held by [Steffen Eger](https://steffeneger.github.io/) and [Thomas Haider](https://www.aesthetics.mpg.de/institut/mitarbeiterinnen/thomas-haider.html).
 
 ### Meetings
-There will be one meeting in early December (most likely: Thursday December 3, e.g., 16-17) to discuss topics and organizatinal issues.
+There will be one meeting in early December (most likely: Thursday December 3, e.g., 16-17) to discuss topics and organizational issues.
 
 There will be three seminar sessions in January where students present their topics (3min) and answer questions (about 10min per group member). Students also need to upload videos prior to the seminar sessions. Videos should be ~15min per student, i.e., total length will be 15-60min.
 
@@ -20,7 +20,7 @@ The seminar will be held in English.
 
 ### Topics
 
-We will offer 9-10 topics:
+We will offer 9-10 topics among the following:
 
 - Emotion detection & analysis
 - Metaphor detection & analysis 
@@ -32,8 +32,10 @@ We will offer 9-10 topics:
 - Spelling normalization & OCR
 - Stylometry
 - Analysis of scientific texts
+- Ethics & Bias
+- Explainability and Interpretability
 
-Each topic will be assigned 1 to 4 students, who will present it jointly. **Note that groups of 3 or more students must conduct an own experiment to be discussed in their term papers**.
+Each topic will be assigned 1 to 4 students, who will present it jointly. **Note that groups of 3 or more students must conduct an own experiment to be discussed in their term papers** (this is relevant only for the term papers). 
 
 ### Literature
 
@@ -118,3 +120,12 @@ Each topic will be assigned 1 to 4 students, who will present it jointly. **Note
   - Background papers:
       - Beltagy et al. SciBERT: A Pretrained Language Model for Scientific Text. In EMNLP 2019
       - Gao et al., Does My Rebuttal Matter? Insights from a Major NLP Conference. In NAACL 2019
+
+* **Explainability and interpretability**
+  - [Explainable Automated Fact-Checking for Public Health Claims](https://virtual.2020.emnlp.org/paper_main.3151.html)
+  - [A Diagnostic Study of Explainability Techniques for Text Classification](https://virtual.2020.emnlp.org/paper_main.958.html)
+  - [Evaluating Explainable AI: Which Algorithmic Explanations Help Users Predict Model Behavior?](https://www.aclweb.org/anthology/2020.acl-main.491.pdf)
+  - [Explaining Black Box Predictions and Unveiling Data Artifacts through Influence Functions](https://www.aclweb.org/anthology/2020.acl-main.492.pdf)
+  
+* **Bias and ethics**
+  - 
