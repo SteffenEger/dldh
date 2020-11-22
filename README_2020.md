@@ -127,5 +127,8 @@ Each topic will be assigned 1 to 4 students, who will present it jointly. **Note
   - [Evaluating Explainable AI: Which Algorithmic Explanations Help Users Predict Model Behavior?](https://www.aclweb.org/anthology/2020.acl-main.491.pdf)
   - [Explaining Black Box Predictions and Unveiling Data Artifacts through Influence Functions](https://www.aclweb.org/anthology/2020.acl-main.492.pdf)
   
+  - Background papers:
+      - tbd
+  
 * **Bias and ethics**
   - 
