@@ -130,5 +130,14 @@ Each topic will be assigned 1 to 4 students, who will present it jointly. **Note
   - Background papers:
       - tbd
   
-* **Bias and ethics**
-  - 
+* **Bias (and ethics)**
+  - [Gender Bias in Multilingual Embeddings and Cross-Lingual Transfer](https://www.aclweb.org/anthology/2020.acl-main.260.pdf)
+  - [SOCIAL BIAS FRAMES:Reasoning about Social and Power Implications of Language](https://homes.cs.washington.edu/~msap/pdfs/sap2020socialbiasframes.pdf)
+  - [“You Sound Just Like Your Father” Commercial Machine Translation Systems Include Stylistic Biases](https://www.aclweb.org/anthology/2020.acl-main.154.pdf)
+  - [Double-Hard Debias:Tailoring Word Embeddings for Gender Bias Mitigation](https://www.aclweb.org/anthology/2020.acl-main.484.pdf)
+  - [Multi-Dimensional Gender Bias Classification](https://www.aclweb.org/anthology/2020.emnlp-main.23/)
+  - [We Can Detect Your Bias: Predicting the Political Ideology of News Articles](https://www.aclweb.org/anthology/2020.emnlp-main.404/)
+  
+  - Background papers:
+      - tbd
+
