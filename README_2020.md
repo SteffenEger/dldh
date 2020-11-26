@@ -141,3 +141,13 @@ Each topic will be assigned 1 to 4 students, who will present it jointly. **Note
   - Background papers:
       - tbd
 
+* **Corpora and annotation**
+
+  - [XTREME: A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalization](https://arxiv.org/abs/2003.11080)
+  - [MLSUM: The Multilingual Summarization Corpus](https://arxiv.org/abs/2004.14900)
+  - [The Multilingual Amazon Reviews Corpus](https://arxiv.org/abs/2010.02573)
+  - [Ranking Creative Language Characteristics in Small Data Scenarios](https://arxiv.org/pdf/2010.12613.pdf)
+  - [PO-EMO: Conceptualization, Annotation, and Modeling of Aesthetic Emotions in German and English Poetry](https://arxiv.org/abs/2003.07723)
+
+  - Background papers:
+       - tbd
