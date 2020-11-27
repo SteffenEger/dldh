@@ -160,6 +160,7 @@ Each topic will be assigned 1 to 4 students, who will present it jointly. **Note
   - [The Limitations of Stylometry for Detecting Machine-Generated Fake News](https://www.aclweb.org/anthology/2020.cl-2.8.pdf)
   - [Facilitating the Communication of Politeness through Fine-Grained Paraphrasing](https://www.aclweb.org/anthology/2020.emnlp-main.416.pdf)
   - [Challenges in Emotion Style Transfer: An Exploration with a Lexical Substitution Pipeline](https://arxiv.org/abs/2005.07617)
+  - [Visualizing Regional Language Variation Across Europe on Twitter https://doi.org/10.1007/978-3-319-73400-2_175-1](https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-73400-2_175-1)
   
   - Background papers:
       - [Dear sir or madam, may i introduce the gyafc dataset: Corpus, benchmarks and metrics for formality style transfer](https://arxiv.org/pdf/1803.06535.pdf)
