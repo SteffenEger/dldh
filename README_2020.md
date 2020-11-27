@@ -154,10 +154,14 @@ Each topic will be assigned 1 to 4 students, who will present it jointly. **Note
         - Hopkins and Kiela. Automatically Generating Rhythmic Verse with Neural Networks. In ACL 2017.
         - Lau et al. DeepSpeare: A joint neural model of poetic language, meter and rhyme. In ACL 2018.
         - Jhamtani, H., Mehta, S.V., Carbonell, J. and Berg-Kirkpatrick, T., 2019. Learning Rhyming Constraints using Structured Adversaries. EMNLP 2019
-        - Kao, J. and Jurafsky, D., 2012. A computational analysis of style, affect, and imagery in contemporary poetry. In Proceedings of the NAACL-HLT 2012 Workshop on Computational Linguistics for Literature (pp. 8-17).
-        - Manex Agirrezabal, Iñaki Alegria, and Mans Hulden. 2016. Machine learning for metrical analysis of English poetry. In Proceedings of COLING
         - [Artificial Intelligence in the Creative Industries: A Review](https://arxiv.org/pdf/2007.12391.pdf)
         - [Biases in Generative Art—A Causal Look from the Lens of Art History](https://arxiv.org/pdf/2010.13266.pdf)
+        - Folgert Karsdorp, Peter van Kranenburg, and Enrique Manjavacas (2019) Learning Similarity Metrics for Melody Retrieval.
+        - Elgammal, A., Liu, B., Elhoseiny, M. and Mazzone, M., 2017. CAN: Creative adversarial networks, generating" art" by learning about styles and deviating from style norms. ICCC
+        - Sabatelli, M., Kestemont, M., Daelemans, W. and Geurts, P., 2018. Deep transfer learning for art classification problems. ECCV
+        - [The Aesthetic Responsiveness Assessment (AReA): A screening tool to assess individual differences in responsiveness to art in English and German.]{https://psycnet.apa.org/record/2020-61354-001)
+        - Kao, J. and Jurafsky, D., 2012. A computational analysis of style, affect, and imagery in contemporary poetry. In Proceedings of the NAACL-HLT 2012 Workshop on Computational Linguistics for Literature (pp. 8-17).
+        - Manex Agirrezabal, Iñaki Alegria, and Mans Hulden. 2016. Machine learning for metrical analysis of English poetry. In Proceedings of COLING
 
 * **Bias (and ethics)**
   - [Gender Bias in Multilingual Embeddings and Cross-Lingual Transfer](https://www.aclweb.org/anthology/2020.acl-main.260.pdf)
