@@ -145,6 +145,7 @@ Each topic will be assigned 1 to 4 students, who will present it jointly. **Note
 * **Corpora and annotation**
 
   - [LitBank](https://github.com/dbamman/litbank)
+  - [Integrating Text and Image: Determining Multimodal Document Intent in Instagram Posts](https://www.aclweb.org/anthology/D19-1469.pdf)
   - [XTREME: A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalization](https://arxiv.org/abs/2003.11080)
   - [MLSUM: The Multilingual Summarization Corpus](https://arxiv.org/abs/2004.14900)
   - [The Multilingual Amazon Reviews Corpus](https://arxiv.org/abs/2010.02573)
@@ -161,6 +162,7 @@ Each topic will be assigned 1 to 4 students, who will present it jointly. **Note
   - [Facilitating the Communication of Politeness through Fine-Grained Paraphrasing](https://www.aclweb.org/anthology/2020.emnlp-main.416.pdf)
   - [Challenges in Emotion Style Transfer: An Exploration with a Lexical Substitution Pipeline](https://arxiv.org/abs/2005.07617)
   - [Visualizing Regional Language Variation Across Europe on Twitter https://doi.org/10.1007/978-3-319-73400-2_175-1](https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-73400-2_175-1)
+  - [Integrating Text and Image: Determining Multimodal Document Intent in Instagram Posts](https://www.aclweb.org/anthology/D19-1469.pdf)
   
   - Background papers:
       - [Dear sir or madam, may i introduce the gyafc dataset: Corpus, benchmarks and metrics for formality style transfer](https://arxiv.org/pdf/1803.06535.pdf)
