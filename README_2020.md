@@ -172,6 +172,7 @@ Each topic will be assigned 1 to 4 students, who will present it jointly. **Note
    - [Frowning Frodo, Wincing Leia, and a Seriously Great Friendship: Learning to Classify Emotional Relationships of Fictional Characters](https://www.aclweb.org/anthology/N19-1067.pdf)
    - [Causal Inference of Script Knowledge](https://www.aclweb.org/anthology/2020.emnlp-main.612.pdf)
    - [Learning to Segment Actions from Observation and Narration](https://www.aclweb.org/anthology/2020.acl-main.231.pdf)
+   - [Literary Event Detection](https://people.ischool.berkeley.edu/~dbamman/pubs/pdf/acl2019_literary_events.pdf)
    
    - Background papers:
       - Chambers, N. and Jurafsky, D., 2009, August. Unsupervised learning of narrative schemas and their participants. ACL AFNLP
