@@ -44,6 +44,7 @@ Each topic will be assigned 1 to 4 students, who will present it jointly. **Note
 * **Corpora and annotation**
 
   - [LitBank](https://github.com/dbamman/litbank)
+  - [GerDraCor-Coref: A Coreference Corpus for Dramatic Texts in German](https://www.aclweb.org/anthology/2020.lrec-1.7.pdf)
   - [XTREME: A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalization](https://arxiv.org/abs/2003.11080)
   - [The Multilingual Amazon Reviews Corpus](https://arxiv.org/abs/2010.02573)
   - [Ranking Creative Language Characteristics in Small Data Scenarios](https://arxiv.org/pdf/2010.12613.pdf)
