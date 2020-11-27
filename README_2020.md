@@ -142,7 +142,7 @@ Each topic will be assigned 1 to 4 students, who will present it jointly. **Note
       - [Personality Traits Recognition in Literary Texts](https://www.aclweb.org/anthology/W19-3411.pdf)
       
 
-* **Poetry generation & analysis**
+* **Poetry, Arts & Music**
    - [Automatic poetry generation from Prosaic text](https://www.aclweb.org/anthology/2020.acl-main.223/)
    - [Acrostic Poem Generation](https://arxiv.org/abs/2010.02239)
    - [PO-EMO: Conceptualization, Annotation, and Modeling of Aesthetic Emotions in German and English Poetry](https://arxiv.org/abs/2003.07723)
@@ -154,6 +154,8 @@ Each topic will be assigned 1 to 4 students, who will present it jointly. **Note
         - Jhamtani, H., Mehta, S.V., Carbonell, J. and Berg-Kirkpatrick, T., 2019. Learning Rhyming Constraints using Structured Adversaries. EMNLP 2019
         - Kao, J. and Jurafsky, D., 2012. A computational analysis of style, affect, and imagery in contemporary poetry. In Proceedings of the NAACL-HLT 2012 Workshop on Computational Linguistics for Literature (pp. 8-17).
         - Manex Agirrezabal, Iñaki Alegria, and Mans Hulden. 2016. Machine learning for metrical analysis of English poetry. In Proceedings of COLING
+        - [Artificial Intelligence in the Creative Industries: A Review](https://arxiv.org/pdf/2007.12391.pdf)
+        - [Biases in Generative Art—A Causal Look from the Lens of Art History](https://arxiv.org/pdf/2010.13266.pdf)
 
 * **Bias (and ethics)**
   - [Gender Bias in Multilingual Embeddings and Cross-Lingual Transfer](https://www.aclweb.org/anthology/2020.acl-main.260.pdf)
@@ -163,9 +165,11 @@ Each topic will be assigned 1 to 4 students, who will present it jointly. **Note
   - [We Can Detect Your Bias: Predicting the Political Ideology of News Articles](https://www.aclweb.org/anthology/2020.emnlp-main.404/)
   - [Double-Hard Debias: Tailoring Word Embeddings for Gender Bias Mitigation](https://www.aclweb.org/anthology/2020.acl-main.484.pdf)
   - [Predictive Biases in Natural Language Processing Models: A Conceptual Framework and Overview](https://www.aclweb.org/anthology/2020.acl-main.468v2.pdf)
+  
 
   - Background papers:
       - tbd
+      - [Biases in Generative Art—A Causal Look from the Lens of Art History](https://arxiv.org/pdf/2010.13266.pdf)
 
 * **Analysis of scientific literature**
   - [CO-Search: COVID-19 Information Retrieval with Semantic Search, Question Answering, and Abstractive Summarization](https://arxiv.org/abs/2006.09595)
