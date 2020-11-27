@@ -143,6 +143,7 @@ Each topic will be assigned 1 to 4 students, who will present it jointly. **Note
 
 * **Corpora and annotation**
 
+  - [LitBank](https://github.com/dbamman/litbank)
   - [XTREME: A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalization](https://arxiv.org/abs/2003.11080)
   - [MLSUM: The Multilingual Summarization Corpus](https://arxiv.org/abs/2004.14900)
   - [The Multilingual Amazon Reviews Corpus](https://arxiv.org/abs/2010.02573)
