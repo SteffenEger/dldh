@@ -20,7 +20,7 @@ The seminar will be held in English.
 
 ### Topics
 
-We will offer 9-10 topics among the following:
+We will offer 8-10 topics among the following:
 
 - Corpora & Annotation
 - Spelling normalization & OCR
