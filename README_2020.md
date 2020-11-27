@@ -148,6 +148,7 @@ Each topic will be assigned 1 to 4 students, who will present it jointly. **Note
    - [Automatic poetry generation from Prosaic text](https://www.aclweb.org/anthology/2020.acl-main.223/)
    - [Acrostic Poem Generation](https://arxiv.org/abs/2010.02239)
    - [PO-EMO: Conceptualization, Annotation, and Modeling of Aesthetic Emotions in German and English Poetry](https://arxiv.org/abs/2003.07723)
+   - [Deep learning for music generation: challenges and directions](https://link.springer.com/article/10.1007/s00521-018-3813-6)
    
    - Background papers: 
         - Zhang and Lapata. Chinese Poetry Generation with Recurrent Neural Networks. In EMNLP 2014.
