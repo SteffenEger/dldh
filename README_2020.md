@@ -153,7 +153,8 @@ Each topic will be assigned 1 to 4 students, who will present it jointly. **Note
   - [PO-EMO: Conceptualization, Annotation, and Modeling of Aesthetic Emotions in German and English Poetry](https://arxiv.org/abs/2003.07723)
 
   - Background papers:
-       - tbd
+       - [Resources and benchmark corpora for hate speech detection: a systematic review](https://link.springer.com/article/10.1007/s10579-020-09502-8)
+       - [Hate begets Hate: A Temporal Study of Hate Speech](https://dl.acm.org/doi/pdf/10.1145/3415163)
        
 * **Stylometry**
 
@@ -177,3 +178,4 @@ Each topic will be assigned 1 to 4 students, who will present it jointly. **Note
    - Background papers:
       - Chambers, N. and Jurafsky, D., 2009, August. Unsupervised learning of narrative schemas and their participants. ACL AFNLP
       - Reagan, A.J., Mitchell, L., Kiley, D., Danforth, C.M. and Dodds, P.S., 2016. The emotional arcs of stories are dominated by six basic shapes. EPJ Data Science, 5(1), p.31.
+      - [Personality Traits Recognition in Literary Texts](https://www.aclweb.org/anthology/W19-3411.pdf)
