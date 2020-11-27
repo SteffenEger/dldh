@@ -25,7 +25,6 @@ We will offer 9-10 topics among the following:
 - Emotion detection & analysis
 - Metaphor detection & analysis 
 - Poetry generation & analysis
-- Art
 - Fiction & Narration
 - Semantic Change
 - Corpora & Annotation
@@ -46,6 +45,7 @@ Each topic will be assigned 1 to 4 students, who will present it jointly. **Note
    - [Modeling Protagonist Emotions for Emotion-Aware Storytelling](https://arxiv.org/abs/2010.06822)
    - [Hashtags, Emotions, and Comments: A Large-Scale Dataset to Understand Fine-Grained Social Emotions to Online Topics](https://www.aclweb.org/anthology/2020.emnlp-main.106/)
    - [PO-EMO: Conceptualization, Annotation, and Modeling of Aesthetic Emotions in German and English Poetry](https://arxiv.org/abs/2003.07723)
+   - [Lost in Back-Translation: Emotion Preservation in Neural Machine Translation](http://www.romanklinger.de/publications/TroianoKlingerPado-coling2020.pdf)
 
    - Background Papers:
       - tbd
@@ -152,3 +152,14 @@ Each topic will be assigned 1 to 4 students, who will present it jointly. **Note
 
   - Background papers:
        - tbd
+       
+* **Stylometry**
+
+  - [Entity-centric contextual affective analysis](https://www.aclweb.org/anthology/P19-1243.pdf)
+  - [The Limitations of Stylometry for Detecting Machine-Generated Fake News](https://www.aclweb.org/anthology/2020.cl-2.8.pdf)
+  - [Facilitating the Communication of Politeness through Fine-Grained Paraphrasing](https://www.aclweb.org/anthology/2020.emnlp-main.416.pdf)
+  - [Challenges in Emotion Style Transfer: An Exploration with a Lexical Substitution Pipeline](https://arxiv.org/abs/2005.07617)
+  
+  - Background papers:
+      - [Dear sir or madam, may i introduce the gyafc dataset: Corpus, benchmarks and metrics for formality style transfer](https://arxiv.org/pdf/1803.06535.pdf)
+
