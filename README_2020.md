@@ -154,7 +154,7 @@ Each topic will be assigned 1 to 4 students, who will present it jointly. **Note
 
   - Background papers:
        - [Resources and benchmark corpora for hate speech detection: a systematic review](https://link.springer.com/article/10.1007/s10579-020-09502-8)
-       - [Hate begets Hate: A Temporal Study of Hate Speech](https://dl.acm.org/doi/pdf/10.1145/3415163)
+       - tbd
        
 * **Stylometry**
 
@@ -167,6 +167,7 @@ Each topic will be assigned 1 to 4 students, who will present it jointly. **Note
   
   - Background papers:
       - [Dear sir or madam, may i introduce the gyafc dataset: Corpus, benchmarks and metrics for formality style transfer](https://arxiv.org/pdf/1803.06535.pdf)
+      - [Hate begets Hate: A Temporal Study of Hate Speech](https://dl.acm.org/doi/pdf/10.1145/3415163)
 
 * **Fiction & Narration**
    - [What time is it? Temporal Analysis of Novels](https://www.aclweb.org/anthology/2020.emnlp-main.730.pdf)
