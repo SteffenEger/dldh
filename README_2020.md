@@ -44,16 +44,16 @@ Each topic will be assigned 1 to 4 students, who will present it jointly. **Note
 * **Corpora and annotation**
 
   - [LitBank](https://github.com/dbamman/litbank)
-  - [Integrating Text and Image: Determining Multimodal Document Intent in Instagram Posts](https://www.aclweb.org/anthology/D19-1469.pdf)
   - [XTREME: A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalization](https://arxiv.org/abs/2003.11080)
-  - [MLSUM: The Multilingual Summarization Corpus](https://arxiv.org/abs/2004.14900)
   - [The Multilingual Amazon Reviews Corpus](https://arxiv.org/abs/2010.02573)
   - [Ranking Creative Language Characteristics in Small Data Scenarios](https://arxiv.org/pdf/2010.12613.pdf)
   - [PO-EMO: Conceptualization, Annotation, and Modeling of Aesthetic Emotions in German and English Poetry](https://arxiv.org/abs/2003.07723)
+  - [Integrating Text and Image: Determining Multimodal Document Intent in Instagram Posts](https://www.aclweb.org/anthology/D19-1469.pdf)
 
   - Background papers:
        - [Resources and benchmark corpora for hate speech detection: a systematic review](https://link.springer.com/article/10.1007/s10579-020-09502-8)
-       - tbd
+       - [MLSUM: The Multilingual Summarization Corpus](https://arxiv.org/abs/2004.14900)
+
        
  
 * **OCR & Spelling Normalization**
@@ -119,24 +119,25 @@ Each topic will be assigned 1 to 4 students, who will present it jointly. **Note
 
 * **Stylometry**
 
-  - [Entity-centric contextual affective analysis](https://www.aclweb.org/anthology/P19-1243.pdf)
   - [The Limitations of Stylometry for Detecting Machine-Generated Fake News](https://www.aclweb.org/anthology/2020.cl-2.8.pdf)
   - [Facilitating the Communication of Politeness through Fine-Grained Paraphrasing](https://www.aclweb.org/anthology/2020.emnlp-main.416.pdf)
-  - [Challenges in Emotion Style Transfer: An Exploration with a Lexical Substitution Pipeline](https://arxiv.org/abs/2005.07617)
   - [Visualizing Regional Language Variation Across Europe on Twitter https://doi.org/10.1007/978-3-319-73400-2_175-1](https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-73400-2_175-1)
   - [Integrating Text and Image: Determining Multimodal Document Intent in Instagram Posts](https://www.aclweb.org/anthology/D19-1469.pdf)
-  
+  - [Entity-centric contextual affective analysis](https://www.aclweb.org/anthology/P19-1243.pdf)
+
   - Background papers:
       - [Dear sir or madam, may i introduce the gyafc dataset: Corpus, benchmarks and metrics for formality style transfer](https://arxiv.org/pdf/1803.06535.pdf)
       - [Hate begets Hate: A Temporal Study of Hate Speech](https://dl.acm.org/doi/pdf/10.1145/3415163)
       - Kao, J. and Jurafsky, D., 2012. A computational analysis of style, affect, and imagery in contemporary poetry. In Proceedings of the NAACL-HLT 2012 Workshop on Computational Linguistics for Literature (pp. 8-17).
+      - [Challenges in Emotion Style Transfer: An Exploration with a Lexical Substitution Pipeline](https://arxiv.org/abs/2005.07617)
+  
 
 * **Fiction & Narration**
    - [What time is it? Temporal Analysis of Novels](https://www.aclweb.org/anthology/2020.emnlp-main.730.pdf)
-   - [Frowning Frodo, Wincing Leia, and a Seriously Great Friendship: Learning to Classify Emotional Relationships of Fictional Characters](https://www.aclweb.org/anthology/N19-1067.pdf)
    - [Causal Inference of Script Knowledge](https://www.aclweb.org/anthology/2020.emnlp-main.612.pdf)
    - [Learning to Segment Actions from Observation and Narration](https://www.aclweb.org/anthology/2020.acl-main.231.pdf)
    - [Literary Event Detection](https://people.ischool.berkeley.edu/~dbamman/pubs/pdf/acl2019_literary_events.pdf)
+   - [Frowning Frodo, Wincing Leia, and a Seriously Great Friendship: Learning to Classify Emotional Relationships of Fictional Characters](https://www.aclweb.org/anthology/N19-1067.pdf)
    
    - Background papers:
       - Chambers, N. and Jurafsky, D., 2009, August. Unsupervised learning of narrative schemas and their participants. ACL AFNLP
@@ -170,13 +171,13 @@ Each topic will be assigned 1 to 4 students, who will present it jointly. **Note
   - [“You Sound Just Like Your Father” Commercial Machine Translation Systems Include Stylistic Biases](https://www.aclweb.org/anthology/2020.acl-main.154.pdf)
   - [Multi-Dimensional Gender Bias Classification](https://www.aclweb.org/anthology/2020.emnlp-main.23/)
   - [We Can Detect Your Bias: Predicting the Political Ideology of News Articles](https://www.aclweb.org/anthology/2020.emnlp-main.404/)
-  - [Double-Hard Debias: Tailoring Word Embeddings for Gender Bias Mitigation](https://www.aclweb.org/anthology/2020.acl-main.484.pdf)
-  - [Predictive Biases in Natural Language Processing Models: A Conceptual Framework and Overview](https://www.aclweb.org/anthology/2020.acl-main.468v2.pdf)
-  
+  - [Predictive Biases in Natural Language Processing Models: A Conceptual Framework and Overview](https://www.aclweb.org/anthology/2020.acl-main.468v2.pdf)  
 
   - Background papers:
       - tbd
       - [Biases in Generative Art—A Causal Look from the Lens of Art History](https://arxiv.org/pdf/2010.13266.pdf)
+      - [Double-Hard Debias: Tailoring Word Embeddings for Gender Bias Mitigation](https://www.aclweb.org/anthology/2020.acl-main.484.pdf)
+
 
 * **Explainability and interpretability**
   - [Explainable Automated Fact-Checking for Public Health Claims](https://virtual.2020.emnlp.org/paper_main.3151.html)
