@@ -22,17 +22,19 @@ The seminar will be held in English.
 
 We will offer 9-10 topics among the following:
 
-- Emotion detection & analysis
-- Metaphor detection & analysis 
-- Poetry generation & analysis
-- Fiction & Narration
-- Semantic Change
 - Corpora & Annotation
 - Spelling normalization & OCR
+- Emotion detection & analysis
+- Metaphor detection & analysis 
+- Semantic Change
 - Stylometry
-- Analysis of scientific texts
+- Fiction & Narration
+- Poetry, Arts & Music: Generation & Analysis
 - Ethics & Bias
 - Explainability and Interpretability
+- Analysis of scientific texts
+
+
 
 Each topic will be assigned 1 to 4 students, who will present it jointly. **Note that groups of 3 or more students must conduct an own experiment to be discussed in their term papers** (this is relevant only for the term papers). 
 
@@ -171,6 +173,16 @@ Each topic will be assigned 1 to 4 students, who will present it jointly. **Note
       - tbd
       - [Biases in Generative Art—A Causal Look from the Lens of Art History](https://arxiv.org/pdf/2010.13266.pdf)
 
+* **Explainability and interpretability**
+  - [Explainable Automated Fact-Checking for Public Health Claims](https://virtual.2020.emnlp.org/paper_main.3151.html)
+  - [A Diagnostic Study of Explainability Techniques for Text Classification](https://virtual.2020.emnlp.org/paper_main.958.html)
+  - [Evaluating Explainable AI: Which Algorithmic Explanations Help Users Predict Model Behavior?](https://www.aclweb.org/anthology/2020.acl-main.491.pdf)
+  - [Explaining Black Box Predictions and Unveiling Data Artifacts through Influence Functions](https://www.aclweb.org/anthology/2020.acl-main.492.pdf)
+  
+  - Background papers:
+      - tbd
+      
+
 * **Analysis of scientific literature**
   - [CO-Search: COVID-19 Information Retrieval with Semantic Search, Question Answering, and Abstractive Summarization](https://arxiv.org/abs/2006.09595)
   - [Aspect-based Sentiment Analysis of Scientific Reviews](https://arxiv.org/abs/2006.03257)
@@ -180,12 +192,3 @@ Each topic will be assigned 1 to 4 students, who will present it jointly. **Note
   - Background papers:
       - Beltagy et al. SciBERT: A Pretrained Language Model for Scientific Text. In EMNLP 2019
       - Gao et al., Does My Rebuttal Matter? Insights from a Major NLP Conference. In NAACL 2019
-
-* **Explainability and interpretability**
-  - [Explainable Automated Fact-Checking for Public Health Claims](https://virtual.2020.emnlp.org/paper_main.3151.html)
-  - [A Diagnostic Study of Explainability Techniques for Text Classification](https://virtual.2020.emnlp.org/paper_main.958.html)
-  - [Evaluating Explainable AI: Which Algorithmic Explanations Help Users Predict Model Behavior?](https://www.aclweb.org/anthology/2020.acl-main.491.pdf)
-  - [Explaining Black Box Predictions and Unveiling Data Artifacts through Influence Functions](https://www.aclweb.org/anthology/2020.acl-main.492.pdf)
-  
-  - Background papers:
-      - tbd
