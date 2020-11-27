@@ -137,6 +137,7 @@ Each topic will be assigned 1 to 4 students, who will present it jointly. **Note
   - [Multi-Dimensional Gender Bias Classification](https://www.aclweb.org/anthology/2020.emnlp-main.23/)
   - [We Can Detect Your Bias: Predicting the Political Ideology of News Articles](https://www.aclweb.org/anthology/2020.emnlp-main.404/)
   - [Double-Hard Debias: Tailoring Word Embeddings for Gender Bias Mitigation](https://www.aclweb.org/anthology/2020.acl-main.484.pdf)
+  - [Predictive Biases in Natural Language Processing Models: A Conceptual Framework and Overview](https://www.aclweb.org/anthology/2020.acl-main.468v2.pdf)
 
   - Background papers:
       - tbd
@@ -163,3 +164,10 @@ Each topic will be assigned 1 to 4 students, who will present it jointly. **Note
   - Background papers:
       - [Dear sir or madam, may i introduce the gyafc dataset: Corpus, benchmarks and metrics for formality style transfer](https://arxiv.org/pdf/1803.06535.pdf)
 
+* **Fiction & Narration**
+   - [What time is it? Temporal Analysis of Novels](https://www.aclweb.org/anthology/2020.emnlp-main.730.pdf)
+   - [Frowning Frodo, Wincing Leia, and a Seriously Great Friendship: Learning to Classify Emotional Relationships of Fictional Characters](https://www.aclweb.org/anthology/N19-1067.pdf)
+   
+   - Background papers:
+      - Chambers, N. and Jurafsky, D., 2009, August. Unsupervised learning of narrative schemas and their participants. ACL AFNLP
+      - Reagan, A.J., Mitchell, L., Kiley, D., Danforth, C.M. and Dodds, P.S., 2016. The emotional arcs of stories are dominated by six basic shapes. EPJ Data Science, 5(1), p.31.
