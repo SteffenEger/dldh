@@ -68,7 +68,7 @@ Each topic will be assigned 1 to 4 students, who will present it jointly. **Note
     - [Applying the Transformer to Character-level Transduction](https://arxiv.org/abs/2005.10213)
     - [Neural Machine Translation with BERT for Post-OCR Error Detection and Correction](https://dl.acm.org/doi/abs/10.1145/3383583.3398605?casa_token=sEXjYx5qb1YAAAAA:3uJ-CnkBqZj_ma6tm6oVmMLOpjKMfmZ0ZIvIXOzvvjx9ePf2OChGCHAmiKnxVuk2ax2JL1665X47Bg)
     - [Optical character recognition with neural networks and post-correction with finite state methods](https://link.springer.com/article/10.1007/s10032-020-00359-9)
-    - Literature on noisy user-generated text and orthographic attacks / tbd
+    - [NAT: Noise-Aware Training for Robust Neural Sequence Labeling](https://arxiv.org/pdf/2005.07162.pdf)
     
     - Background papers:
         - Bollmann. A Large-Scale Comparison of Historical Text Normalization Systems. In NAACL 2019.
