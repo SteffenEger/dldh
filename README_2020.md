@@ -45,16 +45,21 @@ Each topic will be assigned 1 to 4 students, who will present it jointly. **Note
 
   - [LitBank](https://github.com/dbamman/litbank)
   - [GerDraCor-Coref: A Coreference Corpus for Dramatic Texts in German](https://www.aclweb.org/anthology/2020.lrec-1.7.pdf)
-  - [XTREME: A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalization](https://arxiv.org/abs/2003.11080)
-  - [The Multilingual Amazon Reviews Corpus](https://arxiv.org/abs/2010.02573)
-  - [Ranking Creative Language Characteristics in Small Data Scenarios](https://arxiv.org/pdf/2010.12613.pdf)
   - [PO-EMO: Conceptualization, Annotation, and Modeling of Aesthetic Emotions in German and English Poetry](https://arxiv.org/abs/2003.07723)
+  - [The Multilingual Amazon Reviews Corpus](https://arxiv.org/abs/2010.02573)
   - [Integrating Text and Image: Determining Multimodal Document Intent in Instagram Posts](https://www.aclweb.org/anthology/D19-1469.pdf)
+  - [Ranking Creative Language Characteristics in Small Data Scenarios](https://arxiv.org/pdf/2010.12613.pdf)
+
 
   - Background papers:
+       - Artstein, [Inter-annotator agreement](http://artstein.org/publications/inter-annotator-preprint.pdf)
+       - Kiritchenko and Mohammad. Best-Worst Scaling More Reliable than Rating Scales: A Case Study on Sentiment Intensity Annotation. In ACL 2017.
+       - [A large annotated corpus for learning natural language inference](https://nlp.stanford.edu/pubs/snli_paper.pdf)
        - [Resources and benchmark corpora for hate speech detection: a systematic review](https://link.springer.com/article/10.1007/s10579-020-09502-8)
        - [MLSUM: The Multilingual Summarization Corpus](https://arxiv.org/abs/2004.14900)
        - [Multimodal Meme Dataset (MultiOFF) for Identifying Offensive Content in Image and Text](https://www.aclweb.org/anthology/2020.trac-1.6.pdf)
+       - [XTREME: A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalization](https://arxiv.org/abs/2003.11080)
+
 
        
  
