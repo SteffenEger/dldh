@@ -54,6 +54,7 @@ Each topic will be assigned 1 to 4 students, who will present it jointly. **Note
   - Background papers:
        - [Resources and benchmark corpora for hate speech detection: a systematic review](https://link.springer.com/article/10.1007/s10579-020-09502-8)
        - [MLSUM: The Multilingual Summarization Corpus](https://arxiv.org/abs/2004.14900)
+       - [Multimodal Meme Dataset (MultiOFF) for Identifying Offensive Content in Image and Text](https://www.aclweb.org/anthology/2020.trac-1.6.pdf)
 
        
  
