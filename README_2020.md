@@ -88,7 +88,9 @@ Each topic will be assigned 1 to 4 students, who will present it jointly. **Note
    - [Lost in Back-Translation: Emotion Preservation in Neural Machine Translation](http://www.romanklinger.de/publications/TroianoKlingerPado-coling2020.pdf)
 
    - Background Papers:
-      - tbd
+      - Buechel and Hahn. EmoBank: Studying the Impact of Annotation Perspective and Representation Format on Dimensional Emotion Analysis. In EACL 2017.
+      - Bostan and Klinger. A Survey and Experiments on Annotated Corpora for Emotion Classification in Text. In Coling 2018.
+      
 
 
 * **Metaphor analysis & detection**
