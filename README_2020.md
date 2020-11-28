@@ -193,9 +193,10 @@ Each topic will be assigned 1 to 4 students, who will present it jointly. **Note
   - [A Diagnostic Study of Explainability Techniques for Text Classification](https://virtual.2020.emnlp.org/paper_main.958.html)
   - [Evaluating Explainable AI: Which Algorithmic Explanations Help Users Predict Model Behavior?](https://www.aclweb.org/anthology/2020.acl-main.491.pdf)
   - [Explaining Black Box Predictions and Unveiling Data Artifacts through Influence Functions](https://www.aclweb.org/anthology/2020.acl-main.492.pdf)
+  - [Accessible Cultural Heritage through ExplainableArtificial Intelligence](https://hal.archives-ouvertes.fr/hal-02864501/document)
   
   - Background papers:
-      - tbd
+      - What Does Explainable AI Really Mean? A New Conceptualization of Perspectives
       
 
 * **Analysis of scientific literature**
@@ -207,3 +208,8 @@ Each topic will be assigned 1 to 4 students, who will present it jointly. **Note
   - Background papers:
       - Beltagy et al. SciBERT: A Pretrained Language Model for Scientific Text. In EMNLP 2019
       - Gao et al., Does My Rebuttal Matter? Insights from a Major NLP Conference. In NAACL 2019
+      - Lauscher et al., An argument-annotated corpus of scientific publications
+      - Context-Enhanced Citation Sentiment Detection
+      - Identifying problems and solutions in scientific text
+      - Investigating the Role of Argumentation in the Rhetorical Analysis of Scientific Publications with Neural Multi-Task Learning Models
+      - Citation Classification for Behavioral Analysis of a Scientific Field
