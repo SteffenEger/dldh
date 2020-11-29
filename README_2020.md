@@ -59,8 +59,6 @@ Each topic will be assigned 1 to 4 students, who will present it jointly. **Note
        - [MLSUM: The Multilingual Summarization Corpus](https://arxiv.org/abs/2004.14900)
        - [Multimodal Meme Dataset (MultiOFF) for Identifying Offensive Content in Image and Text](https://www.aclweb.org/anthology/2020.trac-1.6.pdf)
        - [XTREME: A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalization](https://arxiv.org/abs/2003.11080)
-
-
        
  
 * **OCR & Spelling Normalization**
@@ -130,7 +128,7 @@ Each topic will be assigned 1 to 4 students, who will present it jointly. **Note
 
   - [The Limitations of Stylometry for Detecting Machine-Generated Fake News](https://www.aclweb.org/anthology/2020.cl-2.8.pdf)
   - [Facilitating the Communication of Politeness through Fine-Grained Paraphrasing](https://www.aclweb.org/anthology/2020.emnlp-main.416.pdf)
-  - [Visualizing Regional Language Variation Across Europe on Twitter https://doi.org/10.1007/978-3-319-73400-2_175-1](https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-73400-2_175-1)
+  - [Visualizing Regional Language Variation Across Europe on Twitter](https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-73400-2_175-1)
   - [Integrating Text and Image: Determining Multimodal Document Intent in Instagram Posts](https://www.aclweb.org/anthology/D19-1469.pdf)
   - [Entity-centric contextual affective analysis](https://www.aclweb.org/anthology/P19-1243.pdf)
 
@@ -183,7 +181,6 @@ Each topic will be assigned 1 to 4 students, who will present it jointly. **Note
   - [Predictive Biases in Natural Language Processing Models: A Conceptual Framework and Overview](https://www.aclweb.org/anthology/2020.acl-main.468v2.pdf)  
 
   - Background papers:
-      - tbd
       - [Biases in Generative Art—A Causal Look from the Lens of Art History](https://arxiv.org/pdf/2010.13266.pdf)
       - [Double-Hard Debias: Tailoring Word Embeddings for Gender Bias Mitigation](https://www.aclweb.org/anthology/2020.acl-main.484.pdf)
 
@@ -193,10 +190,10 @@ Each topic will be assigned 1 to 4 students, who will present it jointly. **Note
   - [A Diagnostic Study of Explainability Techniques for Text Classification](https://virtual.2020.emnlp.org/paper_main.958.html)
   - [Evaluating Explainable AI: Which Algorithmic Explanations Help Users Predict Model Behavior?](https://www.aclweb.org/anthology/2020.acl-main.491.pdf)
   - [Explaining Black Box Predictions and Unveiling Data Artifacts through Influence Functions](https://www.aclweb.org/anthology/2020.acl-main.492.pdf)
-  - [Accessible Cultural Heritage through ExplainableArtificial Intelligence](https://hal.archives-ouvertes.fr/hal-02864501/document)
+  - [Accessible Cultural Heritage through Explainable Artificial Intelligence](https://hal.archives-ouvertes.fr/hal-02864501/document)
   
   - Background papers:
-      - What Does Explainable AI Really Mean? A New Conceptualization of Perspectives
+      - [What Does Explainable AI Really Mean? A New Conceptualization of Perspectives](https://dh2020.adho.org/wp-content/uploads/2020/07/603_TheExplainabilityTurnCriticalDigitalHumanitiesandExplanation.html)
       
 
 * **Analysis of scientific literature**
