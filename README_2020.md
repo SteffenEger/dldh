@@ -21,7 +21,7 @@ The seminar will be held in English.
 
 ### Video lectures
 
-We provide two lectures, one introducing the syllabus and the field of Digitial Humanities: It is available here: [What is Digital Humanities](https://www.youtube.com/watch?v=j2tmBpOoaEM&feature=youtu.be). The other video introduces Deep Learning, and is split in three parts: [Basics and History](https://youtu.be/jWi3BG0t8PM), [Input Representations](https://youtu.be/RT8M6pR_IQM), [Architectures](https://youtu.be/xovnSOUFGdg). 
+We provide two lectures, one introducing the syllabus and the field of Digitial Humanities. It is available here: [What is Digital Humanities](https://www.youtube.com/watch?v=j2tmBpOoaEM&feature=youtu.be). The other video introduces Deep Learning, and is split in three parts: [Basics and History](https://youtu.be/jWi3BG0t8PM), [Input Representations](https://youtu.be/RT8M6pR_IQM), [Architectures](https://youtu.be/xovnSOUFGdg). 
 
 ### Topics
 
