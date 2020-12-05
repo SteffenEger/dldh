@@ -9,7 +9,7 @@ The focus of the seminar is on humanities applications like poetry generation an
 
 Der Fokus des Seminars wird auf Humanities Anwendungen wie Gedicht-Generierung und Analyse, Metaphern- und Emotions-Identifikation, etc. liegen, und wie diese mithilfe von Deep Learning gelöst werden können. Die Studenten werden Paper lesen und diese während des Seminars präsentieren.
 
-![dldh](goethe.png = 36x36)
+![dldh](goethe.png | width=100)
 
 
 ### Previous and current material
