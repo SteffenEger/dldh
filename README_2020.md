@@ -28,6 +28,13 @@ The other video introduces Deep Learning, and is split in three parts:
   - [Input Representations](https://youtu.be/RT8M6pR_IQM), 
   - [Architectures](https://youtu.be/xovnSOUFGdg). 
 
+
+### Seminar sessions
+
+ - Session 1, Thursday, 21.01.2021 (16-18:30)
+ - Session 2, Thursday, 28.01.2021 (16-18:30)
+ - Session 3, Thursday, 04.02.2021 (16-18:30)
+
 ### Topics
 
 We will offer 8-10 topics among the following:
