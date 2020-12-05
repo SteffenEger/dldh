@@ -6,7 +6,7 @@
 
 ## Overview
 
-This is a seminar held each winter semester at [TU Darmstadt](https://www.tu-darmstadt.de/) discussing the application of deep learning techniques to digitial humanities problems. 
+This is a seminar series held each winter semester at [TU Darmstadt](https://www.tu-darmstadt.de/) discussing the application of deep learning techniques to digitial humanities problems. 
 
 The focus of the seminar is on humanities applications like poetry generation and analysis, metaphor and emotion identification, etc., and how to solve these problems with Deep Learning. Students will read papers and present them during the seminar. 
 
