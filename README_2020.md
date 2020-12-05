@@ -2,17 +2,14 @@
 
 ## Organization
 
-Two video lectures, introducing Deep Learning and Digital Humanities, will be available by the end of November. 
-One zoom session will be held in the first week of December to discuss topics and further organization.
-
-The students will present their topics in three sessions in January. Students have to upload videos which will be discussed in the January sessions. 
+The seminar will be held by [Steffen Eger](https://steffeneger.github.io/) and [Thomas Haider](https://www.aesthetics.mpg.de/institut/mitarbeiterinnen/thomas-haider.html).
 
 The seminar will cover 8-10 topics. Depending on the number of participants, we will allow multiple students per topics (e.g., 1-4). 
 
-The seminar will be held by [Steffen Eger](https://steffeneger.github.io/) and [Thomas Haider](https://www.aesthetics.mpg.de/institut/mitarbeiterinnen/thomas-haider.html).
+The students will present their topics in three sessions in January. Students have to upload videos which will be discussed in the January sessions. 
 
 ### Meetings
-There will be one meeting in early December (most likely: Thursday December 3, e.g., 16-17) to discuss topics and organizational issues.
+There will be one meeting in early December (Thursday December 3, 16-17) to discuss topics and organizational issues.
 
 There will be three seminar sessions in January where students present their topics (3min) and answer questions (about 10min per group member). Students also need to upload videos prior to the seminar sessions. Videos should be ~15min per student, i.e., total length will be 15-60min.
 
@@ -21,7 +18,14 @@ The seminar will be held in English.
 
 ### Video lectures
 
-We provide two lectures, one introducing the syllabus and the field of Digitial Humanities. It is available here: [What is Digital Humanities](https://www.youtube.com/watch?v=j2tmBpOoaEM&feature=youtu.be). The other video introduces Deep Learning, and is split in three parts: [Basics and History](https://youtu.be/jWi3BG0t8PM), [Input Representations](https://youtu.be/RT8M6pR_IQM), [Architectures](https://youtu.be/xovnSOUFGdg). 
+We provide two lectures, one introducing the syllabus and the field of Digitial Humanities; it is available here: 
+
+    - [What is Digital Humanities](https://www.youtube.com/watch?v=j2tmBpOoaEM&feature=youtu.be). 
+    
+The other video introduces Deep Learning, and is split in three parts: 
+    - [Basics and History](https://youtu.be/jWi3BG0t8PM), 
+    - [Input Representations](https://youtu.be/RT8M6pR_IQM), 
+    - [Architectures](https://youtu.be/xovnSOUFGdg). 
 
 ### Topics
 
