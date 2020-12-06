@@ -1,4 +1,4 @@
-[Go here](Readme.md)
+[Go here](README.md)
 
 <!--
 
