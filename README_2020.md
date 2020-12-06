@@ -129,12 +129,12 @@ Each topic will be assigned 1 to 4 students, who will present it jointly. **Note
 
 
 * **Semantic Change**
+    - [Dynamic Contextualized Word Embeddings](https://arxiv.org/pdf/2010.12684.pdf)
+    - [Enriching Word Embeddings with Temporal and Spatial Information](https://www.aclweb.org/anthology/2020.conll-1.1.pdf)
     - [Simple, Interpretable and Stable Method for Detecting Words with Usage Change across Corpora](https://www.aclweb.org/anthology/2020.acl-main.51/)
     - [A Timely Intervention: Tracking the Changing Meanings of Political Concepts with Word Vectors](https://www.cambridge.org/core/journals/political-analysis/article/timely-intervention-tracking-the-changing-meanings-of-political-concepts-with-word-vectors/DDF3B5833A12E673EEE24FBD9798679E)
-    - [Dynamic Contextualized Word Embeddings](https://arxiv.org/pdf/2010.12684.pdf)
     - [SemEval-2020 Task 1: Unsupervised Lexical Semantic Change Detection](https://arxiv.org/abs/2007.11464)
     - [Analysing Lexical Semantic Change with Contextualised Word Representations](https://www.aclweb.org/anthology/2020.acl-main.365/)
-    - [Enriching Word Embeddings with Temporal and Spatial Information](https://www.aclweb.org/anthology/2020.conll-1.1.pdf)
     
     - Background papers:
        - Hamilton et al. 2016. Diachronic Word Embeddings Reveal Statistical Laws of Semantic Change. In ACL 2016.
@@ -195,8 +195,8 @@ Each topic will be assigned 1 to 4 students, who will present it jointly. **Note
         - Manex Agirrezabal, Iñaki Alegria, and Mans Hulden. 2016. Machine learning for metrical analysis of English poetry. In Proceedings of COLING
 
 * **Bias (and ethics)**
-  - [Gender Bias in Multilingual Embeddings and Cross-Lingual Transfer](https://www.aclweb.org/anthology/2020.acl-main.260.pdf)
   - [SOCIAL BIAS FRAMES: Reasoning about Social and Power Implications of Language](https://homes.cs.washington.edu/~msap/pdfs/sap2020socialbiasframes.pdf)
+  - [Gender Bias in Multilingual Embeddings and Cross-Lingual Transfer](https://www.aclweb.org/anthology/2020.acl-main.260.pdf)
   - [“You Sound Just Like Your Father” Commercial Machine Translation Systems Include Stylistic Biases](https://www.aclweb.org/anthology/2020.acl-main.154.pdf)
   - [Multi-Dimensional Gender Bias Classification](https://www.aclweb.org/anthology/2020.emnlp-main.23/)
   - [We Can Detect Your Bias: Predicting the Political Ideology of News Articles](https://www.aclweb.org/anthology/2020.emnlp-main.404/)
@@ -220,9 +220,9 @@ Each topic will be assigned 1 to 4 students, who will present it jointly. **Note
 
 * **Analysis of scientific literature**
   - [CO-Search: COVID-19 Information Retrieval with Semantic Search, Question Answering, and Abstractive Summarization](https://arxiv.org/abs/2006.09595)
+  - [Fact or Fiction: Verifying Scientific Claims](https://arxiv.org/pdf/2004.14974.pdf)
   - [Aspect-based Sentiment Analysis of Scientific Reviews](https://arxiv.org/abs/2006.03257)
   - [Argument Pair Extraction from Peer Review and Rebuttal via Multi-task Learning](https://www.aclweb.org/anthology/2020.emnlp-main.569.pdf)
-  - [Fact or Fiction: Verifying Scientific Claims](https://arxiv.org/pdf/2004.14974.pdf)
   
   - Background papers:
       - Beltagy et al. SciBERT: A Pretrained Language Model for Scientific Text. In EMNLP 2019
