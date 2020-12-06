@@ -1,3 +1,7 @@
+[Go here](Readme.md)
+
+<!--
+
 # Deep Learning and Digital Humanities (20-00-1080-se Deep Learning und Digital Humanities)
 
 
@@ -150,5 +154,5 @@ The seminar will be held in English.
 
 
 
-     
+     -->
 
