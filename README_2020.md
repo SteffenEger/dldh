@@ -16,6 +16,10 @@ There will be three seminar sessions in January where students present their top
 ### Language
 The seminar will be held in English.
 
+### Contact
+
+seminar.dldh@gmail.com
+
 ### Video lectures
 
 We provide two lectures, one introducing the syllabus and the field of Digitial Humanities; it is available here: 
