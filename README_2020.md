@@ -2,7 +2,7 @@
 
 ## Organization
 
-The seminar will be held by [Steffen Eger](https://steffeneger.github.io/) and [Thomas Haider](https://www.aesthetics.mpg.de/institut/mitarbeiterinnen/thomas-haider.html).
+The seminar is held by [Steffen Eger](https://steffeneger.github.io/) and [Thomas Haider](https://www.aesthetics.mpg.de/institut/mitarbeiterinnen/thomas-haider.html).
 
 The seminar will cover 8-10 topics. Depending on the number of participants, we will allow multiple students per topics (e.g., 1-4). 
 
