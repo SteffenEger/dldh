@@ -129,12 +129,12 @@ Each topic will be assigned 1 to 4 students, who will present it jointly. **Note
 
 
 * **Semantic Change**
-    - [Dynamic Contextualized Word Embeddings](https://arxiv.org/pdf/2010.12684.pdf)
+    - [Analysing Lexical Semantic Change with Contextualised Word Representations](https://www.aclweb.org/anthology/2020.acl-main.365/)
     - [Enriching Word Embeddings with Temporal and Spatial Information](https://www.aclweb.org/anthology/2020.conll-1.1.pdf)
+    - [Dynamic Contextualized Word Embeddings](https://arxiv.org/pdf/2010.12684.pdf)
     - [Simple, Interpretable and Stable Method for Detecting Words with Usage Change across Corpora](https://www.aclweb.org/anthology/2020.acl-main.51/)
     - [A Timely Intervention: Tracking the Changing Meanings of Political Concepts with Word Vectors](https://www.cambridge.org/core/journals/political-analysis/article/timely-intervention-tracking-the-changing-meanings-of-political-concepts-with-word-vectors/DDF3B5833A12E673EEE24FBD9798679E)
     - [SemEval-2020 Task 1: Unsupervised Lexical Semantic Change Detection](https://arxiv.org/abs/2007.11464)
-    - [Analysing Lexical Semantic Change with Contextualised Word Representations](https://www.aclweb.org/anthology/2020.acl-main.365/)
     
     - Background papers:
        - Hamilton et al. 2016. Diachronic Word Embeddings Reveal Statistical Laws of Semantic Change. In ACL 2016.
@@ -208,8 +208,8 @@ Each topic will be assigned 1 to 4 students, who will present it jointly. **Note
 
 
 * **Explainability and interpretability**
-  - [Explainable Automated Fact-Checking for Public Health Claims](https://virtual.2020.emnlp.org/paper_main.3151.html)
   - [A Diagnostic Study of Explainability Techniques for Text Classification](https://virtual.2020.emnlp.org/paper_main.958.html)
+  - [Explainable Automated Fact-Checking for Public Health Claims](https://virtual.2020.emnlp.org/paper_main.3151.html)
   - [Evaluating Explainable AI: Which Algorithmic Explanations Help Users Predict Model Behavior?](https://www.aclweb.org/anthology/2020.acl-main.491.pdf)
   - [Explaining Black Box Predictions and Unveiling Data Artifacts through Influence Functions](https://www.aclweb.org/anthology/2020.acl-main.492.pdf)
   - [Accessible Cultural Heritage through Explainable Artificial Intelligence](https://hal.archives-ouvertes.fr/hal-02864501/document)
