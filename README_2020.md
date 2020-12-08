@@ -24,7 +24,7 @@ seminar.dldh@gmail.com
 
 We provide two lectures, one introducing the syllabus and the field of Digitial Humanities; it is available here: 
 
-  - [What is Digital Humanities](https://www.youtube.com/watch?v=j2tmBpOoaEM&feature=youtu.be). 
+  - [A Quick Introduction to Digital Humanities](https://www.youtube.com/watch?v=j2tmBpOoaEM). 
     
 The other video introduces Deep Learning, and is split in three parts: 
   
@@ -147,9 +147,9 @@ Each topic will be assigned 1 to 4 students, who will present it jointly. **Note
 
 * **Stylometry**
 
-  - [The Limitations of Stylometry for Detecting Machine-Generated Fake News](https://www.aclweb.org/anthology/2020.cl-2.8.pdf)
   - [Facilitating the Communication of Politeness through Fine-Grained Paraphrasing](https://www.aclweb.org/anthology/2020.emnlp-main.416.pdf)
   - [Visualizing Regional Language Variation Across Europe on Twitter](https://link.springer.com/referenceworkentry/10.1007%2F978-3-319-73400-2_175-1)
+  - [The Limitations of Stylometry for Detecting Machine-Generated Fake News](https://www.aclweb.org/anthology/2020.cl-2.8.pdf)
   - [Integrating Text and Image: Determining Multimodal Document Intent in Instagram Posts](https://www.aclweb.org/anthology/D19-1469.pdf)
   - [Entity-centric contextual affective analysis](https://www.aclweb.org/anthology/P19-1243.pdf)
 
