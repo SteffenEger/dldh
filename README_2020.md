@@ -6,8 +6,6 @@ The seminar is held by [Steffen Eger](https://steffeneger.github.io/) and [Thoma
 
 The seminar will cover 8-10 topics. Depending on the number of participants, we will allow multiple students per topics (e.g., 1-4). 
 
-The students will present their topics in three sessions in January. Students have to upload videos which will be discussed in the January sessions. 
-
 ### Meetings
 There will be one meeting in early December (Thursday December 3, 16-17) to discuss topics and organizational issues.
 
