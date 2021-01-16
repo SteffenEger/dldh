@@ -61,13 +61,10 @@ Each topic will be assigned 1 to 4 students, who will present it jointly. **Note
 
 |Session|Topic|Video|PDF|
 |-|------|---------------------------|-------------|
-|1|Corpora & Annotations|||
-|1|OCR & Spelling Normaliaztion|||
+|1|Corpora & Annotations|[Video](https://youtu.be/zUOwOCw6HQY)|[PDF]()|
+|1|OCR & Spelling Normaliaztion|[Video](https://youtu.be/6EjssFCjF2c)|[PDF]()|
 |1|Metaphors|[Video](https://drive.google.com/drive/folders/1nWAh_ntjm8w8tbkv8hcyZJHNfiqwEkUH?usp=sharing)|[PDF]()|
-|1|Emotions|[Video]()|[PDF]()|
-
-|Session|Date|Topics|Presenter|
-|-|------|---------------------------|-------------|
+|1|Emotions|[Video](https://drive.google.com/drive/folders/1be-u-Jq0feVR9ln2fQVql9m-ZT78NFRq)|[PDF]()|
 
 
 
