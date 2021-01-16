@@ -64,7 +64,7 @@ Each topic will be assigned 1 to 4 students, who will present it jointly. **Note
 |1|Corpora & Annotations|[Video](https://youtu.be/zUOwOCw6HQY)|[PDF](https://drive.google.com/file/d/1_Jha2kRFDogWbQsN-gY-3Ub57Cr7cKsj/view?usp=sharing)|
 |1|OCR & Spelling Normalization|[Video](https://youtu.be/6EjssFCjF2c)|[PDF](https://drive.google.com/file/d/1Ia-hDsVZoCwjPTlKdm_35PppdxEJEa9U/view?usp=sharing)|
 |1|Metaphors|[Video](https://drive.google.com/drive/folders/1nWAh_ntjm8w8tbkv8hcyZJHNfiqwEkUH?usp=sharing)|[PDF](https://drive.google.com/file/d/1o65lZmn2Y6a7IFFu1bVjqeBtCOS0kud4/view?usp=sharing)|
-|1|Emotions|[Video](https://drive.google.com/drive/folders/1be-u-Jq0feVR9ln2fQVql9m-ZT78NFRq)|[PDF](https://drive.google.com/file/d/14qWfiORb2EOaBiY7jni3JNlHzSJXqt2D/view?usp=sharing)|
+|1|Emotions|[Video](https://drive.google.com/drive/folders/1be-u-Jq0feVR9ln2fQVql9m-ZT78NFRq)|[PDF](https://www.youtube.com/watch?v=G1dLTeSsL6A&feature=youtu.be)|
 
 
 
