@@ -57,6 +57,16 @@ We will offer 8-10 topics among the following:
 
 Each topic will be assigned 1 to 4 students, who will present it jointly. **Note that groups of 3 or more students must conduct an own experiment to be discussed in their term papers** (this is relevant only for the term papers). 
 
+### Schedule
+
+|Topic|Video|PDF|
+|Corpora & Annotations|||
+|OCR & Spelling Normaliaztion|||
+|Metaphors|[Video](https://drive.google.com/drive/folders/1nWAh_ntjm8w8tbkv8hcyZJHNfiqwEkUH?usp=sharing)|[PDF]()|
+|Emotions|[Video]()|[PDF]()|
+
+
+
 ### Literature
 
 
