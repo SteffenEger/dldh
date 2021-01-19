@@ -217,8 +217,8 @@ Each topic will be assigned 1 to 4 students, who will present it jointly. **Note
 
 
 * **Explainability and interpretability**
-  - [A Diagnostic Study of Explainability Techniques for Text Classification](https://virtual.2020.emnlp.org/paper_main.958.html)
-  - [Explainable Automated Fact-Checking for Public Health Claims](https://virtual.2020.emnlp.org/paper_main.3151.html)
+  - [A Diagnostic Study of Explainability Techniques for Text Classification](https://www.aclweb.org/anthology/2020.emnlp-main.263.pdf)
+  - [Explainable Automated Fact-Checking for Public Health Claims](https://www.aclweb.org/anthology/2020.emnlp-main.623.pdf)
   - [Evaluating Explainable AI: Which Algorithmic Explanations Help Users Predict Model Behavior?](https://www.aclweb.org/anthology/2020.acl-main.491.pdf)
   - [Explaining Black Box Predictions and Unveiling Data Artifacts through Influence Functions](https://www.aclweb.org/anthology/2020.acl-main.492.pdf)
   - [Accessible Cultural Heritage through Explainable Artificial Intelligence](https://hal.archives-ouvertes.fr/hal-02864501/document)
