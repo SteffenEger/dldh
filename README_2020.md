@@ -65,10 +65,10 @@ Each topic will be assigned 1 to 4 students, who will present it jointly. **Note
 |1|OCR & Spelling Normalization|[Video](https://youtu.be/6EjssFCjF2c)|[PDF](https://drive.google.com/file/d/1Ia-hDsVZoCwjPTlKdm_35PppdxEJEa9U/view?usp=sharing)|
 |1|Metaphors|[Video](https://www.youtube.com/watch?v=uc_HPohSSdw&feature=youtu.be)|[PDF](https://drive.google.com/file/d/1o65lZmn2Y6a7IFFu1bVjqeBtCOS0kud4/view?usp=sharing)|
 |1|Emotions|[Video](https://www.youtube.com/watch?v=G1dLTeSsL6A&feature=youtu.be)|[PDF](https://drive.google.com/file/d/14qWfiORb2EOaBiY7jni3JNlHzSJXqt2D/view?usp=sharing)|
-|2|Stylometry|[Video](https://youtu.be/pG3nb1edC7s)|[PDF]()|
-|2|Semantic Change|[Video](https://youtu.be/kw1_MFsG2To)|[PDF]()|
+|2|Stylometry|[Video](https://youtu.be/pG3nb1edC7s)|[PDF](https://drive.google.com/file/d/179mDwEcXUN0VpAfsxEncRXJvqXQ4jzpf/view?usp=sharing)|
+|2|Semantic Change|[Video](https://youtu.be/kw1_MFsG2To)|[PDF](https://drive.google.com/file/d/1rKq_OE3OCQ0U9gu1PNEe0km9bMnNoEub/view?usp=sharing)|
 |2|Fiction|[Video]()|[PDF]()|
-|2|Bias|[Video](https://youtu.be/72JprxSHk8A )|[PDF]()|
+|2|Bias|[Video](https://youtu.be/72JprxSHk8A )|[PDF](https://drive.google.com/file/d/1t4_zg7kGsAlYY1an8r5NpSDDuUvT1-Tw/view?usp=sharing)|
 |3|Science|[Video]()|[PDF]()|
 |3|Poetry|[Video]()|[PDF]()|
 |3|Explainability|[Video]()|[PDF]()|
