@@ -69,9 +69,9 @@ Each topic will be assigned 1 to 4 students, who will present it jointly. **Note
 |2|Semantic Change|[Video](https://youtu.be/kw1_MFsG2To)|[PDF](https://drive.google.com/file/d/1rKq_OE3OCQ0U9gu1PNEe0km9bMnNoEub/view?usp=sharing)|
 |2|Fiction|[Video](https://www.youtube.com/watch?v=XmJa3iMjPaI&feature=youtu.be)|[PDF](https://drive.google.com/file/d/1HaWzePd6I4GA7GuVoDQkJ38199PoAD1J/view?usp=sharing)|
 |2|Bias|[Video](https://youtu.be/72JprxSHk8A )|[PDF](https://drive.google.com/file/d/1t4_zg7kGsAlYY1an8r5NpSDDuUvT1-Tw/view?usp=sharing)|
-|3|Science|[Video](https://youtu.be/Wm2ADC_pOB4)|[PDF]()|
-|3|Poetry|[Video](https://youtu.be/GTa6id26Rwc)|[PDF]()|
-|3|Explainability|[Video](https://youtu.be/aLUakQTtmnw)|[PDF]()|
+|3|Science|[Video](https://youtu.be/Wm2ADC_pOB4)|[PDF](https://drive.google.com/file/d/1Q-bxXV5dNUTllpAH4pGr_OAQTEfNEW_f/view?usp=sharing)|
+|3|Poetry|[Video](https://youtu.be/GTa6id26Rwc)|[PDF](https://drive.google.com/file/d/1gUeWEpT-xDGTcbf6r7BUnm9PZfB0zwcb/view?usp=sharing)|
+|3|Explainability|[Video](https://youtu.be/aLUakQTtmnw)|[PDF](https://drive.google.com/file/d/1pPr8yKjO1t4sHUQVpsnS77i76LPKbSf4/view?usp=sharing)|
 
 
 
