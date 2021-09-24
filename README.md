@@ -15,5 +15,6 @@ Der Fokus des Seminars wird auf Humanities Anwendungen wie Gedicht-Generierung u
 
 ### Previous and current material
 
+* [2021](README_2021.md)
 * [2020](README_2020.md)
 * [2019](README_2019.md)
