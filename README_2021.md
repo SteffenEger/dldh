@@ -12,7 +12,7 @@ This year, there will be two tracks:
 
 ### Meetings
 
-There will be an initial meeting (mid-October) as well as a final presentation meeting in the presentationt track (early February). In the project track, there will be 3 meetings (one in November, one in December, and one in January). 
+There will be an initial meeting (mid-October) as well as a final presentation meeting in the presentation track (early February). In the project track, there will be 3 meetings (one in November, one in December, and one in January). 
 
 ### Language
 The seminar will be held in English.
