@@ -31,6 +31,9 @@ We will offer 4-6 topics among the following:
 
 ### Literature
 
+   * Corpora & Annotation
+       * Investigating label suggestions for opinion mining in German Covid-19 social media
+
    * Spelling normalization & OCR
        * Post-OCR Document Correction with large Ensembles of Character Sequence Models
        * BERT-Defense: A Probabilistic Model Based on BERT to Combat Cognitively Inspired Orthographic Adversarial Attacks
@@ -50,3 +53,9 @@ We will offer 4-6 topics among the following:
       * Temporal Adaptation of BERT and Performance on Downstream Document Classification: Insights from Social Media
    * Poetry
    * Social Bias & Social Science Applications
+      * Changes in European Solidarity Before and During COVID-19: Evidence from a Large Crowd- and Expert-Annotated Twitter Dataset
+      * Diachronic Analysis of German Parliamentary Proceedings: Ideological Shifts through the Lens of Political Biases
+      * He is very intelligent, she is very beautiful? On Mitigating Social Biases in Language Modelling and Generation
+      * Societal Biases in Language Generation: Progress and Challenges
+      * StereoSet: Measuring stereotypical bias in pretrained language models
+
