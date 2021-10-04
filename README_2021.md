@@ -33,7 +33,7 @@ We will offer 4-6 topics among the following:
 
    * Corpora & Annotation
        * Investigating label suggestions for opinion mining in German Covid-19 social media
-
+       * Beyond Black & White: Leveraging Annotator Disagreement via Soft-Label Multi-Task Learning
    * Spelling normalization & OCR
        * Post-OCR Document Correction with large Ensembles of Character Sequence Models
        * BERT-Defense: A Probabilistic Model Based on BERT to Combat Cognitively Inspired Orthographic Adversarial Attacks
@@ -52,6 +52,9 @@ We will offer 4-6 topics among the following:
       * Lexical Semantic Change Discovery
       * Temporal Adaptation of BERT and Performance on Downstream Document Classification: Insights from Social Media
    * Poetry
+      * AI as Author – Bridging the Gap Between Machine Learning and Literary Theory
+      * Don't Go Far Off: An Empirical Study on Neural Poetry Translation
+      * DeepRapper: Neural Rap Generation with Rhyme and Rhythm Modeling 
    * Social Bias & Social Science Applications
       * Changes in European Solidarity Before and During COVID-19: Evidence from a Large Crowd- and Expert-Annotated Twitter Dataset
       * Diachronic Analysis of German Parliamentary Proceedings: Ideological Shifts through the Lens of Political Biases
