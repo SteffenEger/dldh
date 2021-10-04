@@ -39,7 +39,14 @@ We will offer 4-6 topics among the following:
           * Bollmann. A Large-Scale Comparison of Historical Text Normalization Systems. In NAACL 2019. 
           * Semi-supervised Contextual Historical Text Normalization
    * Emotion+metpahor detection
-   * 
+       * MultiMET: A Multimodal Dataset for Metaphor Understanding
+       * Metaphor Generation with Conceptual Mappings
+       * Distributed Representations of Emotion Categories in Emotion Space
+       * eMLM: A New Pre-training Objective for Emotion Related Tasks
    * Semantic Change
+      * Challenges for computational lexical semantic change
+      * Explaining and Improving BERT Performance on Lexical Semantic Change Detection
+      * Lexical Semantic Change Discovery
+      * Temporal Adaptation of BERT and Performance on Downstream Document Classification: Insights from Social Media
    * Poetry
    * Social Bias & Social Science Applications
