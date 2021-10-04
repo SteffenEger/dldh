@@ -27,3 +27,15 @@ We will offer 4-6 topics among the following:
 - Semantic Change
 - Poetry: Generation & Analysis
 - (Social) Bias & Social Science Applications
+
+
+### Literature
+
+   * Spelling normalization
+       * A
+       * B
+       * C
+   * Emotion+metpahor decttion
+   * Semantic Change
+   * Poetry
+   * Social Bias & Social Science Applications
