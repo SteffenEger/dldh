@@ -31,11 +31,15 @@ We will offer 4-6 topics among the following:
 
 ### Literature
 
-   * Spelling normalization
-       * A
-       * B
-       * C
-   * Emotion+metpahor decttion
+   * Spelling normalization & OCR
+       * Post-OCR Document Correction with large Ensembles of Character Sequence Models
+       * BERT-Defense: A Probabilistic Model Based on BERT to Combat Cognitively Inspired Orthographic Adversarial Attacks
+       * Background papers:
+          * Amrhein, Clematide. Supervised OCR Error Detection and Correction Using Statistical and Neural Machine Translation Methods. In JLCL 2018.
+          * Bollmann. A Large-Scale Comparison of Historical Text Normalization Systems. In NAACL 2019. 
+          * Semi-supervised Contextual Historical Text Normalization
+   * Emotion+metpahor detection
+   * 
    * Semantic Change
    * Poetry
    * Social Bias & Social Science Applications
