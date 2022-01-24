@@ -26,7 +26,7 @@ We will offer 4-6 topics among the following:
 - Emotion+Metaphor detection & analysis ([Slides](https://drive.google.com/file/d/1WOSSVcuSOZKS5bwbgtS-nUx4XL0S-qN7/view?usp=sharing), [Video](https://youtu.be/HVihP1cUqyI))
 - Semantic Change ([Slides](https://drive.google.com/file/d/1tPUmokghIjiBHyQiPW7unHqPtwcXb78L/view?usp=sharing), [Video](https://drive.google.com/file/d/1H_K6NUFvl3a5YzZFQrEQxpLeKPkRPGGN/view))
 - Poetry: Generation & Analysis ([Slides](https://drive.google.com/file/d/1oujQjpBpIgJ42I5UxWysTVhMofhA7n9N/view?usp=sharing), [Video](https://youtu.be/9nbidS7xnLI))
-- (Social) Bias & Social Science Applications ([Slides](https://drive.google.com/file/d/1KHB4xl3LRLvpl1xxa0jgDFrrICy0fWY4/view?usp=sharing), [Video](https://youtu.be/HVihP1cUqyI))
+- (Social) Bias & Social Science Applications ([Slides](https://drive.google.com/file/d/1KHB4xl3LRLvpl1xxa0jgDFrrICy0fWY4/view?usp=sharing), [Video](https://www.youtube.com/watch?v=sZ_k5wyInM8))
 
 
 ### Literature
