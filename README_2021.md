@@ -21,8 +21,8 @@ The seminar will be held in English.
 
 We will offer 4-6 topics among the following:
 
-- Corpora & Annotation
-- Spelling normalization & OCR
+- Corpora & Annotation 
+- Spelling normalization & OCR ([PDF](https://drive.google.com/file/d/1YebCMNcuX7kmBvT_VpFIXakSQCZ3gXvv/view?usp=sharing), [VIDEO](https://www.youtube.com/watch?v=7mDo77pAvG0))
 - Emotion+Metaphor detection & analysis 
 - Semantic Change
 - Poetry: Generation & Analysis
