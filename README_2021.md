@@ -23,10 +23,10 @@ We will offer 4-6 topics among the following:
 
 - Corpora & Annotation 
 - Spelling normalization & OCR ([PDF](https://drive.google.com/file/d/1YebCMNcuX7kmBvT_VpFIXakSQCZ3gXvv/view?usp=sharing), [VIDEO](https://www.youtube.com/watch?v=7mDo77pAvG0))
-- Emotion+Metaphor detection & analysis 
-- Semantic Change
-- Poetry: Generation & Analysis
-- (Social) Bias & Social Science Applications
+- Emotion+Metaphor detection & analysis ([PDF](https://drive.google.com/file/d/1WOSSVcuSOZKS5bwbgtS-nUx4XL0S-qN7/view?usp=sharing), [VIDEO]())
+- Semantic Change ([PDF](https://drive.google.com/file/d/1tPUmokghIjiBHyQiPW7unHqPtwcXb78L/view?usp=sharing), [VIDEO]())
+- Poetry: Generation & Analysis ([PDF](https://drive.google.com/file/d/1oujQjpBpIgJ42I5UxWysTVhMofhA7n9N/view?usp=sharing), [VIDEO]())
+- (Social) Bias & Social Science Applications ([PDF](https://drive.google.com/file/d/1KHB4xl3LRLvpl1xxa0jgDFrrICy0fWY4/view?usp=sharing), [VIDEO]())
 
 
 ### Literature
