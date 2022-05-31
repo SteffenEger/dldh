@@ -21,9 +21,9 @@ The seminar will be held in English.
 
 Below are the top-three term papers from the course:
 
-- [Poetry generation with ByT5]()
-- [Semantic Change across time and space]()
-- [Social Biases]()
+- [Poetry generation with ByT5](), Project track
+- [Semantic Change across time and space](), Project track
+- [Social Biases](), Presentation Track
 
 ### Topics
 
