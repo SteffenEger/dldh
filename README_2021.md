@@ -17,6 +17,14 @@ There will be an initial meeting (26.10.2021) as well as a final presentation me
 ### Language
 The seminar will be held in English.
 
+### Best term papers
+
+Below are the top-three term papers from the course:
+
+- [Poetry generation with ByT5]()
+- [Semantic Change across time and space]()
+- [Social Biases]()
+
 ### Topics
 
 We will offer 4-6 topics among the following:
