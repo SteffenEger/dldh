@@ -22,7 +22,7 @@ The seminar will be held in English.
 Below are the top-three term papers from the course:
 
 - [Poetry generation with ByT5](docs/dldh_ws2122_project3_1-poetryT5.pdf), Project track
-- [Semantic Change across time and space](docs/SemanticChange.pdf), Project track
+- [Semantic Change across time and space](docs/Semantic_Change.pdf), Project track
 - [Social Biases](docs/SocialBiasMitigation_BlattHeilmann.pdf), Presentation Track
 
 ### Topics
